@@ -10,8 +10,6 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 # ==========================================
-# 🌟 FIREBASE AUTO-URL ENGINE (Added Active Check)
-# ==========================================
 def get_firebase_base_url():
     print("🔵 [Auto] Fetching Dynamic URL from Firebase...")
     url = "https://firebaseremoteconfig.googleapis.com/v1/projects/963020218535/namespaces/firebase:fetch"
@@ -182,7 +180,7 @@ def convert_utc_to_ist(utc_time_str):
         clean_time = utc_time_str.split(" +")[0]
         utc_dt = datetime.strptime(clean_time, "%Y/%m/%d %H:%M:%S")
         ist_dt = utc_dt + timedelta(hours=5, minutes=30)
-        return ist_dt.strftime("%I:%M %p")
+        return ist_dt.strftime("%d/%m/%Y %I:%M %p")
     except:
         return ""
 
