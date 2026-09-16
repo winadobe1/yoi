@@ -72,6 +72,7 @@ def get_firebase_base_url():
 # Base URL is resolved directly from Firebase.
 BASE_URL = get_firebase_base_url()
 OUTPUT_FILE = Path(__file__).resolve().with_name("playlist.m3u")
+WIB_TIMEZONE = timezone(timedelta(hours=7), name="WIB")
 
 # Built-in fallback pairs reconstructed from libnative-lib.so in dex.
 # These values are raw 16-byte AES key/IV pairs, not hex strings.
@@ -174,14 +175,13 @@ def decrypt_data(encrypted_text):
 
     return _decrypt_apk_fallback(clean_b64)
 
-def convert_utc_to_ist(utc_time_str):
+def convert_utc_to_wib(utc_time_str):
     try:
-        if not utc_time_str: return ""
-        clean_time = utc_time_str.split(" +")[0]
-        utc_dt = datetime.strptime(clean_time, "%Y/%m/%d %H:%M:%S")
-        ist_dt = utc_dt + timedelta(hours=5, minutes=30)
-        return ist_dt.strftime("%d/%m/%Y %I:%M %p")
-    except:
+        if not utc_time_str:
+            return ""
+        utc_dt = datetime.strptime(utc_time_str, "%Y/%m/%d %H:%M:%S %z")
+        return utc_dt.astimezone(WIB_TIMEZONE).strftime("%d/%m/%Y %H:%M")
+    except (TypeError, ValueError):
         return ""
 
 
@@ -262,12 +262,12 @@ def fetch_match_streams(event, status):
     title = event.get('title', 'Sports Event')
     event_info = event.get('eventInfo', {})
     logo = event_info.get('eventLogo', '')
-    ist_time = convert_utc_to_ist(event_info.get('startTime', ''))
+    wib_time = convert_utc_to_wib(event_info.get('startTime', ''))
     sport = event_info.get('eventCat', 'Other')
     team_a = str(event_info.get('teamA', '')).strip()
     team_b = str(event_info.get('teamB', '')).strip()
     matchup = f"{team_a} vs {team_b}" if team_a and team_b else title
-    time_label = f"[{ist_time}]" if ist_time else ""
+    time_label = f"[{wib_time} WIB]" if wib_time else ""
     display_title = f"[{status}]{time_label} {matchup}"
 
     print(f"   🏟️ Processing: {display_title} | {sport}")
@@ -499,7 +499,7 @@ def main():
         sport_entries = fetch_sport_channels()
         all_entries.extend(sport_entries)
 
-        timestamp = (datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)).strftime('%Y-%m-%d %I:%M %p IST')
+        timestamp = datetime.now(WIB_TIMEZONE).strftime('%Y-%m-%d %H:%M WIB')
         
         with OUTPUT_FILE.open("w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
