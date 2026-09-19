@@ -1,214 +1,80 @@
 #EXTM3U
-# UPDATED: 2026-09-19 21:49 WIB
+# UPDATED: 2026-09-20 01:00 WIB
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [LIVE][19/09/2026 20:00 WIB] ETPL vs ETPL (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] VfB Stuttgart vs Borussia Dortmund (beIN ENGLISH - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [LIVE][19/09/2026 20:00 WIB] ETPL vs ETPL (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] VfB Stuttgart vs Borussia Dortmund (CANAL+ HD)
+https://chatgpt.hereisman.net/playlist/56670/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] VfB Stuttgart vs Borussia Dortmund (CRICFy LIVE)
+https://edgestream2.pro/hls/ueyeztrazb4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] VfB Stuttgart vs Borussia Dortmund (HD SERVER)
+https://www.rtmpcdn.com/live/7b7ee8a6-7b6c-4be3-9c39-a9b873c97a19.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] VfB Stuttgart vs Borussia Dortmund (LOW SERVER)
+http://193.47.62.55/hls/YPPPQQQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Nottingham Forest vs Coventry City (NBC SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [LIVE][19/09/2026 20:00 WIB] ETPL vs ETPL (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [LIVE][19/09/2026 20:00 WIB] ETPL vs ETPL (FOX CRICKET HD)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [LIVE][19/09/2026 20:00 WIB] ETPL vs ETPL (WILLOW HD)
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][19/09/2026 20:30 WIB] England vs Sri Lanka (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Nottingham Forest vs Coventry City (SKY MAIN EVENT)
+https://chatgpt.hereisman.net/playlist/56671/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Nottingham Forest vs Coventry City (CRICFy LIVE)
+https://live.uu6611.com/live/hd-en-1-4558576.m3u8?txSecret=de70aff10954bafe54ae63342728f8c8&txTime=6AAF01E8|Referer=https://player.up909.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Nottingham Forest vs Coventry City (HD SERVER)
+https://www.rtmpcdn.com/live/52a6bc90-5cd4-4316-82d1-7a3bee02ea40.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Nottingham Forest vs Coventry City (LOW SERVER)
+http://193.47.62.41/hls/PPPPQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Celta Vigo vs Real Racing Club (PREMIER SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3apdyv1lka/out/v1/c6a1ce1baee041c9a38c5e3813049636/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][19/09/2026 20:30 WIB] England vs Sri Lanka (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][19/09/2026 20:30 WIB] England vs Sri Lanka (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Celta Vigo vs Real Racing Club (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3apdyv1lka/out/v1/c6a1ce1baee041c9a38c5e3813049636/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][19/09/2026 20:30 WIB] England vs Sri Lanka (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][19/09/2026 20:30 WIB] England vs Sri Lanka (SonyLiv)
-https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/master.m3u8?hdnea=exp=1789866154~acl=/*~id=47809198365462406094950915884394~hmac=8c07c9d8a1df8f624e3334cbd7f4c8653bf90d9b50ceaac384cdee38b40ad86d
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][19/09/2026 20:30 WIB] England vs Sri Lanka (SKY CRICKET HD)
-https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][19/09/2026 20:30 WIB] England vs Sri Lanka (LOW SERVER)
-http://193.47.62.44/hls/JYYYAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] Borussia M'gladbach vs 1. FSV Mainz 05 (CRICFy LIVE)
-https://live.uu6611.com/live/hd-en-1-4566524.m3u8?txSecret=9fdeca42c91955468931fdde0a0b5ee2&txTime=6AAED3C7|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] Borussia M'gladbach vs 1. FSV Mainz 05 (HD SERVER)
-https://www.rtmpcdn.com/live/0fa858ca-10b7-498e-b4dc-c8a3881fbf25.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] Borussia M'gladbach vs 1. FSV Mainz 05 (LOW SERVER)
-http://193.47.62.44/hls/JYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] Eintracht Frankfurt vs SC Freiburg (CRICFy LIVE)
-https://live.uu6611.com/live/hd-en-1-4566260.m3u8?txSecret=ac9e65b4546e7bfa8eb3ebec0cf96327&txTime=6AAED3F3|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] Eintracht Frankfurt vs SC Freiburg (HD SERVER)
-https://www.rtmpcdn.com/live/c0da8618-c2f3-44df-a0ef-9b48eaebd454.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] Eintracht Frankfurt vs SC Freiburg (LOW SERVER)
-http://193.47.62.44/hls/JYYYA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] Hamburger SV vs 1. FC Köln (CRICFy LIVE)
-https://live.uu6611.com/live/hd-en-1-4566264.m3u8?txSecret=f4a100b1eb5b9174c0e96f2d8b9aee35&txTime=6AAED40A|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] Hamburger SV vs 1. FC Köln (HD SERVER)
-https://www.rtmpcdn.com/live/7aa989a8-50ad-4ebb-8b8d-d6c3ca421b8c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] Hamburger SV vs 1. FC Köln (LOW SERVER)
-http://193.47.62.44/hls/JYYYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] SV Werder Bremen vs FC Augsburg (CRICFy LIVE)
-https://live.uu6611.com/live/hd-en-1-4566266.m3u8?txSecret=69514a9d42866fe3bfac45f128adaefe&txTime=6AAED41B|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] SV Werder Bremen vs FC Augsburg (HD SERVER)
-https://www.rtmpcdn.com/live/df5caf65-64b4-4e4f-ab67-caa9d03cc37d.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [LIVE][19/09/2026 20:30 WIB] SV Werder Bremen vs FC Augsburg (LOW SERVER)
-http://193.47.62.44/hls/JYYYAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Brighton & Hove Albion vs Arsenal (FUBO SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db1129a481b4487c8df08a4fca073bb9:a51786afdeea9f42a4684edf80773f51
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yuzs6p9ct2/out/v1/863b484bb3454f308645a22a0653b5e3/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Brighton & Hove Albion vs Arsenal (USA NETWORK HD)
-https://chatgpt.hereisman.net/playlist/56649/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Brighton & Hove Albion vs Arsenal (ESPN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Brighton & Hove Albion vs Arsenal (MYCO BD - AQ)
-https://live.bongobd.com/hls/v2.n-BJkaSsi5mxHguoDK6rqA/1789829392/EPLmatch03.m3u8?|referer=https://bongobd.com/&origin=https://live.bongobd.com&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Brighton & Hove Albion vs Arsenal (CRICFy LIVE)
-https://live.uu6611.com/live/hd-en-1-4558560.m3u8?txSecret=cd97440615751c61b8bdd000d1dcfef7&txTime=6AAED7AB|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Brighton & Hove Albion vs Arsenal (CRICFy FAST)
-https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Brighton & Hove Albion vs Arsenal (HD SERVER)
-https://www.rtmpcdn.com/live/6989cffb-42d9-4998-af07-8e569a934ada.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Brighton & Hove Albion vs Arsenal (LOW SERVER)
-http://193.47.62.50/hls/TOTOTOQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Everton vs Ipswich Town (PEACOCK TV HD)
-https://chatgpt.hereisman.net/playlist/56650/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Everton vs Ipswich Town (CRICFy LIVE)
-https://live.uu6611.com/live/hd-en-1-4558562.m3u8?txSecret=e2c3e2d9b4e025f05316cd0b1c4384a1&txTime=6AAED7E0|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Everton vs Ipswich Town (HD SERVER)
-https://www.rtmpcdn.com/live/66c68b6f-8e2b-4322-a631-eca9897a7c05.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Everton vs Ipswich Town (LOW SERVER)
-http://193.47.62.55/hls/TOTOTO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Newcastle United vs Hull City (FUBO SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Newcastle United vs Hull City (ESPN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Newcastle United vs Hull City (CRICFy LIVE)
-https://live.uu6611.com/live/hd-en-1-4558575.m3u8?txSecret=c15e12f25d3222c3bd225196ba1acdb7&txTime=6AAED7C8|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Newcastle United vs Hull City (SKY SPORT NZ)
-https://edgestream7.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Newcastle United vs Hull City (PEACOCK TV HD)
-https://chatgpt.hereisman.net/playlist/56648/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Newcastle United vs Hull City (HD SERVER)
-https://www.rtmpcdn.com/live/c6d05ddb-6f00-4684-b6ec-0bae4af27730.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Newcastle United vs Hull City (LOW SERVER)
-http://193.47.62.50/hls/TOTOTOQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Udinese vs Cagliari (CBS SPORTS - AQ)
-https://type.futtv.nx.kg/udi-cag/tracks-v1a1/mono.m3u8?|User-Agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Udinese vs Cagliari (PARAMOUNT+ HD)
-https://chatgpt.hereisman.net/playlist/56647/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Udinese vs Cagliari (CRICFy LIVE)
-https://live.uu6611.com/live/hd-en-1-4549076.m3u8?txSecret=8bfc56b595dcd42e0bc507e831b10c3d&txTime=6AAECBC8|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Udinese vs Cagliari (HD SERVER)
-https://www.rtmpcdn.com/live/ec0098b5-9bbf-47c2-80f6-28d4ac2697bb.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Udinese vs Cagliari (LOW SERVER)
-http://193.47.62.44/hls/DYYYAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Bologna vs Torino (beIN ENGLISH - AQ)
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Celta Vigo vs Real Racing Club (ESPN DEPORTES HD)
+https://chatgpt.hereisman.net/playlist/56669/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Celta Vigo vs Real Racing Club (HD SERVER)
+https://www.rtmpcdn.com/live/c5c6dede-0125-447f-ad22-b3ee8899581c.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] Celta Vigo vs Real Racing Club (LOW SERVER)
+http://193.47.62.55/hls/YPPPQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="Football", [LIVE][19/09/2026 23:45 WIB] Sparta Rotterdam vs SC Heerenveen (LOW SERVER)
+http://193.47.62.55/hls/PPPPQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="Football", [LIVE][20/09/2026 01:00 WIB] AFC Ajax vs Excelsior (LOW SERVER)
+http://193.47.24.111/hls/GG666AAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][20/09/2026 00:00 WIB] FC Alverca vs Rio Ave (LOW SERVER)
+http://193.47.62.59/hls/EIIIQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] CD Castellón vs CD Tenerife (CRICFy LIVE)
+http://193.47.62.55/hls/YPPPQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", [LIVE][19/09/2026 23:30 WIB] CD Eldense vs Eibar (CRICFy LIVE)
+http://193.47.62.55/hls/YPPPQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [LIVE][20/09/2026 00:00 WIB] Başakşehir FK vs Gençlerbirliği (CRICFy LIVE)
+https://live.uu6611.com/live/sd-1-4581315.m3u8?txSecret=950e162fba7f5fc6edb495e33cb63f02&txTime=6AAF04D3|Referer=https://player.up909.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [LIVE][20/09/2026 00:00 WIB] Başakşehir FK vs Gençlerbirliği (LOW SERVER)
+http://193.47.62.59/hls/EIIIQQQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [LIVE][20/09/2026 00:00 WIB] Trabzonspor vs Galatasaray (CRICFy LIVE)
+https://live.uu6611.com/live/sd-1-4581322.m3u8?txSecret=376df6b822a82e3fb9132951d4080096&txTime=6AAF0517|Referer=https://player.up909.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [LIVE][20/09/2026 00:00 WIB] Trabzonspor vs Galatasaray (LOW SERVER)
+http://193.47.62.59/hls/EIIIQQQQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 23:00 WIB] AS Roma vs Inter (beIN ENGLISH - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Bologna vs Torino (SPORT 1 CZ - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 23:00 WIB] AS Roma vs Inter (FUBO SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 23:00 WIB] AS Roma vs Inter (SPORT 1 CZ - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Bologna vs Torino (CBS SPORTS - AQ)
-https://type.futtv.nx.kg/bol-tor/tracks-v1a1/mono.m3u8?|User-Agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Bologna vs Torino (PARAMOUNT+ HD)
-https://chatgpt.hereisman.net/playlist/56646/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Bologna vs Torino (CRICFy LIVE)
-https://live.uu6611.com/live/hd-en-1-4549107.m3u8?txSecret=08bb340144b82a4c507cf99a0616ef87&txTime=6AAECC4E|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Bologna vs Torino (HD SERVER)
-https://www.rtmpcdn.com/live/5d41dce5-0eec-462d-a110-49ca17be1182.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Bologna vs Torino (LOW SERVER)
-http://193.47.62.44/hls/DYYYAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [LIVE][19/09/2026 21:15 WIB] Athletic Club vs Deportivo Alavés (ESPN DEPORTES HD)
-https://chatgpt.hereisman.net/playlist/56651/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [LIVE][19/09/2026 21:15 WIB] Athletic Club vs Deportivo Alavés (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4565420.m3u8?txSecret=3d8193b281ef21fbfddc797f10ee1b80&txTime=6AAEE108|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [LIVE][19/09/2026 21:15 WIB] Athletic Club vs Deportivo Alavés (HD SERVER)
-https://edgestream1.pro/hls/377qj1h2727.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [LIVE][19/09/2026 21:15 WIB] Athletic Club vs Deportivo Alavés (LOW SERVER)
-http://193.47.62.44/hls/HHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Birmingham City vs Middlesbrough (CBS SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Birmingham City vs Middlesbrough (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4563588.m3u8?txSecret=241d855da63a6b9ad721423a5fbc1499&txTime=6AAED874|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Birmingham City vs Middlesbrough (LOW SERVER)
-http://193.47.62.41/hls/GLLLQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Burnley vs Derby County (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4563590.m3u8?txSecret=33db498edd2e2ca4f7a8d5ef3b3dce63&txTime=6AAED831|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Burnley vs Derby County (HD SERVER)
-https://www.rtmpcdn.com/live/8ea24a9f-70d3-4a53-bc51-ce127d9ebdf2.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Burnley vs Derby County (LOW SERVER)
-http://193.47.62.59/hls/PPPPAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Lincoln City vs Swansea City (CRICFy LIVE )
-https://www.rtmpcdn.com/live/6bee234d-3670-484b-99a7-4d8f10196149.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Lincoln City vs Swansea City (LOW SERVER)
-http://193.47.62.50/hls/WWWWQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Portsmouth vs Blackburn Rovers (CRICFy LIVE)
-https://www.rtmpcdn.com/live/10c86486-fae3-4ba4-97bf-6be1b0057634.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Portsmouth vs Blackburn Rovers (LOW SERVER)
-http://193.47.62.55/hls/FHHHQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Queens Park Rangers vs Preston North End (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4563594.m3u8?txSecret=a1d201cee76cd5507e75a2aeaa9210ff&txTime=6AAED899|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Queens Park Rangers vs Preston North End (HD SERVER)
-https://www.rtmpcdn.com/live/901b89d1-1427-409c-b252-2caca03930d4.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Queens Park Rangers vs Preston North End (LOW SERVER)
-http://193.47.62.41/hls/GLLLQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Wrexham vs Southampton (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Wrexham vs Southampton (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4563599.m3u8?txSecret=34d41374e88d6aff413530325f808da8&txTime=6AAED858|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Wrexham vs Southampton (LOW SERVER)
-http://193.47.62.55/hls/FHHHQQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="Football", [LIVE][19/09/2026 21:30 WIB] ADO Den Haag vs SC Cambuur (CRICFy LIVE)
-http://193.47.62.44/hls/HHHHAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][19/09/2026 21:30 WIB] Gil Vicente vs CS Marítimo (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4578208.m3u8?txSecret=4712ad88c937802454def2d6724a217b&txTime=6AAEE195|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][19/09/2026 21:30 WIB] Gil Vicente vs CS Marítimo (SPORT TV HD)
-https://tmaxapp.site/pt658svs/sporttv1.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][19/09/2026 21:30 WIB] Gil Vicente vs CS Marítimo (LOW SERVER)
-http://193.47.62.44/hls/HHHHAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][19/09/2026 21:30 WIB] CD Nacional vs Famalicão (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4578209.m3u8?txSecret=e8043895e53cd2ff74ed84c2e5ee3d36&txTime=6AAEE173|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][19/09/2026 21:30 WIB] CD Nacional vs Famalicão (SPORT TV HD)
-https://tmaxapp.site/pt658svs/sporttv2.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][19/09/2026 21:30 WIB] CD Nacional vs Famalicão (LOW SERVER)
-http://193.47.62.44/hls/HHHHAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", [LIVE][19/09/2026 21:15 WIB] FC Andorra vs Sporting Gijón (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4567279.m3u8?txSecret=b8ae05f95f8e236e1759da56752857e7&txTime=6AAEDAD3|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", [LIVE][19/09/2026 21:15 WIB] FC Andorra vs Sporting Gijón (LOW SERVER)
-http://193.47.62.44/hls/HHHH.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Çorum FK vs Alanyaspor (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4581316.m3u8?txSecret=03d36606923f8a4381859809906733c8&txTime=6AAEDA7F|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Çorum FK vs Alanyaspor (LOW SERVER)
-http://193.47.62.44/hls/SYYYVAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Kocaelispor vs Gaziantep FK (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4581321.m3u8?txSecret=9321feb39899ce7b884b1a6bed41c15e&txTime=6AAEDAA4|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [LIVE][19/09/2026 21:00 WIB] Kocaelispor vs Gaziantep FK (LOW SERVER)
-http://193.47.62.44/hls/SYYYVAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23674/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Mamelodi Sundowns vs Al-Ahli (SporTV BR - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23674/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Mamelodi Sundowns vs Al-Ahli (CRICFy LIVE)
-https://live.uu6611.com/live/sd-1-4645525.m3u8?txSecret=2e96ef0ab3df2751c81c5ddcb080a5a2&txTime=6AAECE07|Referer=https://player.up909.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23674/image/dark" group-title="Football", [LIVE][19/09/2026 20:00 WIB] Mamelodi Sundowns vs Al-Ahli (LOW SERVER)
-http://193.47.62.55/hls/MPMPMP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 23:00 WIB] AS Roma vs Inter (PARAMOUNT+ HD)
+https://chatgpt.hereisman.net/playlist/56662/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 23:00 WIB] AS Roma vs Inter (HD SERVER)
+https://www.rtmpcdn.com/live/18623c1b-c3d6-40b5-a2d0-76385a86b75d.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][19/09/2026 23:00 WIB] AS Roma vs Inter (LOW SERVER)
+http://193.47.62.50/hls/HHHIIIQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (SKY Via APPLE TV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1108b848697e24f4de284bd482ae0e7e:b34f5daa218b480f82762cd1d88a7d90
@@ -313,6 +179,20 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|ref
 http://tvsen5.aynascope.net/willowhd/index.m3u8?
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [UPCOMING][21/09/2026 06:00 WIB] CPL vs CPL (FOX CRICKET HD)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [UPCOMING][20/09/2026 20:00 WIB] ETPL vs ETPL (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [UPCOMING][20/09/2026 20:00 WIB] ETPL vs ETPL (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2cb97ecd09667ea72635203ce449e0e:481ede365c7c5f1076616490355173d1
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bujlegrj2g/out/v1/6d76f89fb5984174a6837e59d6aee8ba/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [UPCOMING][20/09/2026 20:00 WIB] ETPL vs ETPL (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [UPCOMING][20/09/2026 20:00 WIB] ETPL vs ETPL (FOX CRICKET HD)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Cricket", [UPCOMING][20/09/2026 20:00 WIB] ETPL vs ETPL (WILLOW HD)
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][20/09/2026 14:30 WIB] Zimbabwe vs Australia (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
@@ -325,19 +205,29 @@ https://papacito.cfd/m3u/au-fox-sports-501-hd/live.m3u8
 http://193.47.62.44/hls/ssss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][20/09/2026 14:30 WIB] Zimbabwe vs Australia (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4249099_english_hls_b7b59698b66489_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:30 WIB] VfB Stuttgart vs Borussia Dortmund (beIN ENGLISH - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 18:30 WIB] England vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:30 WIB] VfB Stuttgart vs Borussia Dortmund (SKY FOOTBALL HD)
-https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8
+#KODIPROP:inputstream.adaptive.license_key=e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3apdyv1lka/out/v1/c6a1ce1baee041c9a38c5e3813049636/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 18:30 WIB] England vs Sri Lanka (SKY CRICKET - AQ)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 18:30 WIB] England vs Sri Lanka (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3apdyv1lka/out/v1/c6a1ce1baee041c9a38c5e3813049636/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 18:30 WIB] England vs Sri Lanka (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 18:30 WIB] England vs Sri Lanka (SonyLiv)
+https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/master.m3u8?hdnea=exp=1789866154~acl=/*~id=47809198365462406094950915884394~hmac=8c07c9d8a1df8f624e3334cbd7f4c8653bf90d9b50ceaac384cdee38b40ad86d
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 18:30 WIB] England vs Sri Lanka (SKY CRICKET HD)
+https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 18:30 WIB] England vs Sri Lanka (LOW SERVER)
+http://193.47.62.44/hls/JYYYAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [UPCOMING][20/09/2026 20:30 WIB] Bayer 04 Leverkusen vs RB Leipzig (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [UPCOMING][20/09/2026 22:30 WIB] FC Schalke 04 vs SV 07 Elversberg (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [UPCOMING][21/09/2026 00:30 WIB] SC Paderborn 07 vs TSG Hoffenheim (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:30 WIB] Nottingham Forest vs Coventry City (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football", [UPCOMING][20/09/2026 20:00 WIB] Bournemouth vs Liverpool FC (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -359,22 +249,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [UPCOMING][20/09/2026 01:45 WIB] Venezia vs Lazio (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:30 WIB] Celta Vigo vs Real Racing Club (PREMIER SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:30 WIB] Celta Vigo vs Real Racing Club (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:30 WIB] Celta Vigo vs Real Racing Club (D SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:30 WIB] Celta Vigo vs Real Racing Club (CazéTV - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][20/09/2026 02:00 WIB] Sevilla vs FC Barcelona (beIN ENGLISH - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -411,8 +285,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football", [UPCOMING][20/09/2026 01:45 WIB] Angers vs Troyes (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football", [UPCOMING][19/09/2026 22:15 WIB] Paris FC vs RC Strasbourg (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [UPCOMING][20/09/2026 18:00 WIB] Wolverhampton vs West Bromwich Albion (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18/image/dark" group-title="Football", [UPCOMING][20/09/2026 19:30 WIB] Norwich City vs Bolton Wanderers (CRICFy LIVE)
@@ -445,19 +317,17 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][22/09/2026 07:15 WIB] Los Angeles Rams vs New York Giants (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Cricket", [UPCOMING][20/09/2026 07:00 WIB] Pakistan Women vs Sri Lanka Women (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Cricket", [UPCOMING][20/09/2026 07:00 WIB] Pakistan Women vs Sri Lanka Women (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Cricket", [UPCOMING][20/09/2026 07:00 WIB] Pakistan Women vs Sri Lanka Women (PTV SPORTS HD)
+https://baila-lentoo.pages.dev/nwp/809398.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Cricket", [UPCOMING][20/09/2026 12:00 WIB] Bangladesh Women vs India Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/44/image/dark" group-title="Football", [UPCOMING][20/09/2026 01:30 WIB] SG Dynamo Dresden vs Hertha BSC (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:45 WIB] Sparta Rotterdam vs SC Heerenveen (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="Football", [UPCOMING][20/09/2026 01:00 WIB] AFC Ajax vs Excelsior (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="Football", [UPCOMING][20/09/2026 02:00 WIB] Willem II Tilburg vs Fortuna Sittard (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [UPCOMING][20/09/2026 00:00 WIB] FC Alverca vs Rio Ave (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [UPCOMING][20/09/2026 02:30 WIB] Sporting CP vs FC Arouca (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -467,68 +337,64 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1
 https://tmaxapp.site/pt658svs/sporttv1.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [UPCOMING][20/09/2026 02:30 WIB] Sporting CP vs FC Arouca (beIN SPORTS HD)
 https://tmaxapp.site/8wirwjs76erftg/beinsports2tr.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:30 WIB] CD Castellón vs CD Tenerife (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:30 WIB] CD Eldense vs Eibar (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", [UPCOMING][20/09/2026 02:00 WIB] Cádiz vs Girona FC (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [UPCOMING][20/09/2026 00:00 WIB] Başakşehir FK vs Gençlerbirliği (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [UPCOMING][20/09/2026 00:00 WIB] Trabzonspor vs Galatasaray (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 02:00 WIB] Atlético Mineiro vs Chapecoense (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 03:00 WIB] Mirassol vs Botafogo (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 04:30 WIB] Remo vs Santos (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 06:30 WIB] Vasco da Gama vs Coritiba (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 07:00 WIB] São Paulo vs Internacional (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 02:00 WIB] Atlético Mineiro vs Chapecoense (PREMIERE BR - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 03:00 WIB] Mirassol vs Botafogo (PREMIERE BR - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 04:30 WIB] Remo vs Santos (PREMIERE BR - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 07:00 WIB] São Paulo vs Internacional (PREMIERE BR - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 07:00 WIB] São Paulo vs Internacional (SPORT TV - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][20/09/2026 21:00 WIB] Grêmio vs Palmeiras (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Football", [UPCOMING][21/09/2026 06:00 WIB] Inter Miami CF vs San Diego FC (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 03:05 WIB] Baltimore Orioles vs Milwaukee Brewers (CRICFy LIVE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 03:05 WIB] Baltimore Orioles vs Milwaukee Brewers (HD QUALITY)
+https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 03:10 WIB] Tampa Bay Rays vs Boston Red Sox (HD QUALITY)
+https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 03:10 WIB] New York Mets vs Philadelphia Phillies (HD QUALITY)
+https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 05:10 WIB] Cleveland Guardians vs Athletics (HD QUALITY)
+https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 05:40 WIB] Pittsburgh Pirates vs Kansas City Royals (HD QUALITY)
+https://edgestream2.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 05:40 WIB] Cincinnati Reds vs Chicago Cubs (HD QUALITY)
+https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 06:05 WIB] Texas Rangers vs Toronto Blue Jays (HD QUALITY)
+https://edgestream2.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 06:10 WIB] Chicago White Sox vs Detroit Tigers (HD QUALITY)
+https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 06:10 WIB] Houston Astros vs Atlanta Braves (HD QUALITY)
+https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 06:15 WIB] St. Louis Cardinals vs Washington Nationals (HD QUALITY)
+https://edgestream2.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 07:10 WIB] Colorado Rockies vs Seattle Mariners (HD QUALITY)
+https://edgestream2.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 07:10 WIB] Arizona Diamondbacks vs New York Yankees (HD QUALITY)
+https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 07:40 WIB] San Diego Padres vs Miami Marlins (HD QUALITY)
+https://edgestream2.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 08:10 WIB] Los Angeles Dodgers vs San Francisco Giants (HD QUALITY)
+https://edgestream2.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 08:38 WIB] Los Angeles Angels vs Minnesota Twins (HD QUALITY)
+https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 11:00 WIB] Japan vs India (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 03:10 WIB] Tampa Bay Rays vs Boston Red Sox (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 03:10 WIB] New York Mets vs Philadelphia Phillies (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 05:10 WIB] Cleveland Guardians vs Athletics (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 05:40 WIB] Pittsburgh Pirates vs Kansas City Royals (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 05:40 WIB] Cincinnati Reds vs Chicago Cubs (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 06:05 WIB] Texas Rangers vs Toronto Blue Jays (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 06:10 WIB] Chicago White Sox vs Detroit Tigers (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 06:10 WIB] Houston Astros vs Atlanta Braves (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 06:15 WIB] St. Louis Cardinals vs Washington Nationals (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 07:10 WIB] Colorado Rockies vs Seattle Mariners (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 07:10 WIB] Arizona Diamondbacks vs New York Yankees (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 07:40 WIB] San Diego Padres vs Miami Marlins (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 08:10 WIB] Los Angeles Dodgers vs San Francisco Giants (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][20/09/2026 08:38 WIB] Los Angeles Angels vs Minnesota Twins (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:00 WIB] AS Roma vs Inter (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [UPCOMING][19/09/2026 23:00 WIB] AS Roma vs Inter (FUBO SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTriRVDshs3S8J4gudt5YrQPHKEAWGb-Glx7rD8UFMb_Mdd6OtAPsfyoKY&s=10" group-title="Sports", [SPORT] sscsportss | SSC SPORT 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
