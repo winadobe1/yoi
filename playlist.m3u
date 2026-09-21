@@ -1,34 +1,22 @@
 #EXTM3U
-# UPDATED: 2026-09-21 04:53 WIB
+# UPDATED: 2026-09-21 07:16 WIB
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][21/09/2026 03:05 WIB] Los Angeles Chargers vs Las Vegas Raiders (HD QUALITY)
-https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][21/09/2026 03:25 WIB] San Francisco 49ers vs Miami Dolphins (HD QUALITY)
-https://edgestream2.pro/hls/poertjnvnev40.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][21/09/2026 03:25 WIB] Dallas Cowboys vs Washington Commanders (HD QUALITY)
-https://edgestream2.pro/hls/wnbcnxbcs42.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][21/09/2026 03:25 WIB] Arizona Cardinals vs Seattle Seahawks (HD QUALITY)
-https://edgestream2.pro/hls/ijzriafaq41.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [LIVE][21/09/2026 04:30 WIB] Flamengo vs Red Bull Bragantino (PREMIERE BR - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [LIVE][21/09/2026 06:00 WIB] CPL vs CPL (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [LIVE][21/09/2026 04:30 WIB] Flamengo vs Red Bull Bragantino (SporTV BR - AQ)
+#KODIPROP:inputstream.adaptive.license_key=be40a1e918d4073f1b437e53a1923538:a7a26a92f7dc4beb94573221d9d2ef85
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a9w8xsv6lv/out/v1/fd089b27d9404843bdf391a8db3f6802/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [LIVE][21/09/2026 06:00 WIB] CPL vs CPL (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][21/09/2026 02:10 WIB] Colorado Rockies vs Seattle Mariners (CRICFy LIVE )
-https://chatgpt.hereisman.net/playlist/56848/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][21/09/2026 02:10 WIB] Colorado Rockies vs Seattle Mariners (HD QUALITY)
-https://edgestream2.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][21/09/2026 03:07 WIB] Los Angeles Angels vs Minnesota Twins (HD QUALITY)
-https://edgestream2.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][21/09/2026 03:10 WIB] Los Angeles Dodgers vs San Francisco Giants (HD QUALITY)
-https://edgestream2.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][21/09/2026 03:10 WIB] Arizona Diamondbacks vs New York Yankees (HD QUALITY)
-https://edgestream2.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][21/09/2026 03:10 WIB] San Diego Padres vs Miami Marlins (HD QUALITY)
-https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [LIVE][21/09/2026 06:00 WIB] CPL vs CPL (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [LIVE][21/09/2026 06:00 WIB] CPL vs CPL (WILLOW HD)
+http://tvsen5.aynascope.net/willowhd/index.m3u8?
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [LIVE][21/09/2026 06:00 WIB] CPL vs CPL (FOX CRICKET HD)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][21/09/2026 06:20 WIB] Baltimore Orioles vs Milwaukee Brewers (HD QUALITY)
+https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (SKY Via APPLE TV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1108b848697e24f4de284bd482ae0e7e:b34f5daa218b480f82762cd1d88a7d90
@@ -85,20 +73,6 @@ https://chatgpt.hereisman.net/playlist/54800/load-playlist?|Referer=https://gooz
 https://edgestream2.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][22/09/2026 07:00 WIB] WWE RAW vs WWE RAW (SD SERVER )
 http://193.47.62.44/hls/DQQQAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [UPCOMING][21/09/2026 06:00 WIB] CPL vs CPL (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be40a1e918d4073f1b437e53a1923538:a7a26a92f7dc4beb94573221d9d2ef85
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a9w8xsv6lv/out/v1/fd089b27d9404843bdf391a8db3f6802/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [UPCOMING][21/09/2026 06:00 WIB] CPL vs CPL (TNT SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [UPCOMING][21/09/2026 06:00 WIB] CPL vs CPL (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [UPCOMING][21/09/2026 06:00 WIB] CPL vs CPL (WILLOW HD)
-http://tvsen5.aynascope.net/willowhd/index.m3u8?
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="Cricket", [UPCOMING][21/09/2026 06:00 WIB] CPL vs CPL (FOX CRICKET HD)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 18:30 WIB] England vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e91b0ecde03ad0d00251784f516ff4f6:33790c0313d3853c4e1a941170827549
@@ -123,8 +97,6 @@ https://edgestream2.pro/hls/jnfezkbfz43.m3u8|User-Agent=Mozilla/5.0 (Windows NT 
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 11:00 WIB] Japan vs India (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][21/09/2026 06:20 WIB] Baltimore Orioles vs Milwaukee Brewers (HD QUALITY)
-https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 07:00 WIB] Pakistan Women vs Bangladesh Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Cricket", [UPCOMING][22/09/2026 12:00 WIB] Sri Lanka Women vs India Women (CRICFy LIVE)
