@@ -1,42 +1,76 @@
 #EXTM3U
-# UPDATED: 2026-09-24 13:46 WIB
+# UPDATED: 2026-09-24 19:17 WIB
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket", [LIVE][24/09/2026 12:00 WIB] Hong Kong C. vs Malaysia (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][24/09/2026 19:00 WIB] Formula 1 vs Formula 1 (TSN SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38e634c62e5bcfdece23f441a2d3047b:05132fb19865e6e274357a6ef6862c42
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kruwwv8vzc/out/v1/4f0dd7998d154a98add6386f9de61f58/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket", [LIVE][24/09/2026 12:00 WIB] Hong Kong C. vs Malaysia (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38e634c62e5bcfdece23f441a2d3047b:05132fb19865e6e274357a6ef6862c42
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kruwwv8vzc/out/v1/4f0dd7998d154a98add6386f9de61f58/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket", [LIVE][24/09/2026 12:00 WIB] Hong Kong C. vs Malaysia (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a4a31469f0c707d595a02ef98e6dfdbb-1790224200261
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (SKY Via APPLE TV)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1108b848697e24f4de284bd482ae0e7e:b34f5daa218b480f82762cd1d88a7d90
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/p7buvsnvq3/out/v1/ecc79bf0f0fa4c188055d99ecf3003b1/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (TSN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (APPLE TV - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a1b70018a94bb76a853f57a8b30b77f:a9e82aa405c623f029d6a3f66dbe172f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcdhbvl50j/out/v1/08400e9f9b2042388721e967bb28d2e8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (FANCODE - AQ)
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][24/09/2026 19:00 WIB] Formula 1 vs Formula 1 (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (SPORTSCAST - AQ)
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ce52dceb-f432-44aa-bd5f-4766e42c0138/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (CRICFy LIVE )
-https://chatgpt.hereisman.net/playlist/56188/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (SKY SPORTS HD)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][24/09/2026 19:00 WIB] Formula 1 vs Formula 1 (SporTV BR - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][24/09/2026 19:00 WIB] Formula 1 vs Formula 1 (SKY SPORTS HD)
 https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (RUSSIA FEED)
-https://bl.rutube.ru/livestream/18623b9d5b39a77a812084f53b7d8c9c/index.m3u8?s=R-DUAwy8vASqhu6gmz84Bw&e=1789389939&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][24/09/2026 15:30 WIB] Formula 1 vs Formula 1 (LOW SERVER)
-http://193.47.62.59/hls/gagaga.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][24/09/2026 19:00 WIB] Formula 1 vs Formula 1 (RUSSIA FEED)
+https://bl.rutube.ru/livestream/132765cfe8e1940b127a26113b87d66e/index.m3u8?s=WnwPWDx46bTh_XdZBrRBtw&e=1790324951&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][24/09/2026 19:00 WIB] Formula 1 vs Formula 1 (CRICFy LIVE )
+https://chatgpt.hereisman.net/playlist/56188/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][24/09/2026 19:00 WIB] Formula 1 vs Formula 1 (LOW SERVER)
+http://193.47.62.44/hls/RRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][24/09/2026 18:30 WIB] England vs Sri Lanka (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][24/09/2026 18:30 WIB] England vs Sri Lanka (SKY CRICKET - AQ)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][24/09/2026 18:30 WIB] England vs Sri Lanka (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cfa1f2f31922239df0f3f27efd76344:ac949494b59d3b4442b6e999525d341b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/50fdmgdsle/out/v1/b71c6576530d40c0bbb5b5374a9e869d/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][24/09/2026 18:30 WIB] England vs Sri Lanka (SonyLiv)
+https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790291145~acl=/*~id=26475309875266514221968344653694~hmac=038751f8a3857d072fedcb68258b3743585361245be21946592d695af630dea5
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][24/09/2026 18:30 WIB] England vs Sri Lanka (SKY CRICKET HD)
+https://papacito.cfd/m3u/now49499404/live.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [LIVE][24/09/2026 18:30 WIB] England vs Sri Lanka (LOW SERVER)
+http://193.47.62.59/hls/ELLLA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][24/09/2026 15:00 WIB] South Africa vs Australia (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][24/09/2026 15:00 WIB] South Africa vs Australia (FANCODE - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][24/09/2026 15:00 WIB] South Africa vs Australia (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a0d47149350b92846f380f637114f8:bf5386127fc245e3525c39060550d621
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/alfdweafqm/out/v1/a429fd66def345f7baf21a2a43c12dfd/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][24/09/2026 15:00 WIB] South Africa vs Australia (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][24/09/2026 15:00 WIB] South Africa vs Australia (LOW SERVER)
+http://193.47.62.59/hls/RRRRA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][24/09/2026 18:00 WIB] South Korea vs Ecuador (CRICFy LIVE )
+https://live.dyrur1.com/live/73685372_4ffd293657894f0f146234564f95f0ef_1080p.m3u8?auth_key=1790261613-0-0-47a5cf7abbe5f5f46a05006b4805a136
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][24/09/2026 18:00 WIB] South Korea vs Ecuador (HD SERVER)
+https://www.rtmpcdn.com/live/27a6f2c7-7556-45a5-9712-48dccf887f22.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][24/09/2026 18:00 WIB] South Korea vs Ecuador (LOW SERVER)
+http://193.47.62.50/hls/FUUUAaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][24/09/2026 17:05 WIB] Japan vs Uruguay (CRICFy LIVE)
+https://www.rtmpcdn.com/live/3f083fcc-be0f-4f42-b1d2-ba45579bc82f.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][24/09/2026 17:05 WIB] Japan vs Uruguay (HD SERVER)
+https://live2.zundrixmediapipeline.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][24/09/2026 17:05 WIB] Japan vs Uruguay (LOW SERVER)
+http://193.47.62.50/hls/FUUUAaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football", [LIVE][24/09/2026 19:00 WIB] Myanmar vs East Timor (LOW SERVER)
+http://193.47.62.55/hls/vvvv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][24/09/2026 18:35 WIB] China vs Maldives (CRICFy LIVE )
+https://www.rtmpcdn.com/live/f8ff6ca7-4b00-4536-b87a-f71708c80148.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][24/09/2026 18:35 WIB] China vs Maldives (LOW SERVER)
+http://193.47.62.50/hls/FUUUAaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [UPCOMING][02/10/2026 21:00 WIB] MotoGP vs MotoGP (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
@@ -93,26 +127,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][24/09/2026 18:30 WIB] England vs Sri Lanka (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70b921e2eae48d00b0a2249b0de197b4:4b994f1b4666368565dd56a76975843e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzug5/out/v1/de6a9587a2a3473ab685fb93d1de0929/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][24/09/2026 18:30 WIB] England vs Sri Lanka (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][24/09/2026 18:30 WIB] England vs Sri Lanka (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70b921e2eae48d00b0a2249b0de197b4:4b994f1b4666368565dd56a76975843e
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ww2lshzug5/out/v1/de6a9587a2a3473ab685fb93d1de0929/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][24/09/2026 18:30 WIB] England vs Sri Lanka (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][24/09/2026 18:30 WIB] England vs Sri Lanka (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/criclive2209/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4972b8a1cb9a45f91f52742d0dfd34f2-1790075401409
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][24/09/2026 18:30 WIB] England vs Sri Lanka (SKY CRICKET HD)
-https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][24/09/2026 18:30 WIB] England vs Sri Lanka (LOW SERVER)
-http://193.47.62.59/hls/K999.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][24/09/2026 15:00 WIB] South Africa vs Australia (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][27/09/2026 15:30 WIB] India vs West Indies (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket", [UPCOMING][25/09/2026 12:00 WIB] Afghanistan vs Nepal (CRICFy LIVE)
@@ -157,23 +171,15 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][25/09/2026 23:00 WIB] Armenia vs Latvia (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][24/09/2026 18:00 WIB] South Korea vs Ecuador (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][24/09/2026 17:05 WIB] Japan vs Uruguay (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][24/09/2026 16:30 WIB] Palestine vs New Zealand (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][24/09/2026 20:00 WIB] Namibia vs Congo Republic (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+https://www.rtmpcdn.com/live/039a19f5-0fee-4e35-a534-e33fa11bb5cd.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][24/09/2026 20:00 WIB] Namibia vs Congo Republic (LOW SERVER)
+http://193.47.62.55/hls/ELLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][24/09/2026 23:00 WIB] DR Congo vs Equatorial Guinea (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][24/09/2026 23:00 WIB] Libya vs Botswana (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][24/09/2026 23:00 WIB] Mauritania vs Central African Republic (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football", [UPCOMING][24/09/2026 16:00 WIB] Laos vs Brunei Darussalam (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football", [UPCOMING][24/09/2026 19:00 WIB] Myanmar vs East Timor (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/622/image/dark" group-title="Football", [UPCOMING][24/09/2026 22:55 WIB] United Arab Emirates vs Yemen (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -205,6 +211,10 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][25/09/2026 09:10 WIB] Los Angeles Dodgers vs San Diego Padres (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][24/09/2026 21:00 WIB] Uzbekistan vs Iran (CRICFy LIVE)
+https://www.rtmpcdn.com/live/48c69930-2ac1-482b-b0eb-237470fac2f7.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][24/09/2026 21:00 WIB] Uzbekistan vs Iran (LOW SERVER)
+http://193.47.62.55/hls/ELLLAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTriRVDshs3S8J4gudt5YrQPHKEAWGb-Glx7rD8UFMb_Mdd6OtAPsfyoKY&s=10" group-title="Sports", [SPORT] sscsportss | SSC SPORT 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab081a704aad41829b1123b09b6ecafd:dd51609092fff15e68b91debf5d591f9
