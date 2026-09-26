@@ -1,6 +1,40 @@
 #EXTM3U
-# UPDATED: 2026-09-26 04:34 WIB
+# UPDATED: 2026-09-26 07:10 WIB
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [LIVE][26/09/2026 07:00 WIB] SmackDown vs SmackDown (CRICFy LIVE)
+https://chatgpt.hereisman.net/playlist/54963/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [LIVE][26/09/2026 07:00 WIB] SmackDown vs SmackDown (WWE LIVE - AQ)
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [LIVE][26/09/2026 07:00 WIB] SmackDown vs SmackDown (SD SERVER)
+http://193.47.62.41/hls/UIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket", [LIVE][26/09/2026 07:00 WIB] Japan vs Nepal (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bf67287e378212a80fc35288f2d1b17:160eca864d89bdff4e8f1256ba7646ec
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/brhm0lukoo/out/v1/48d2d472bf554f69a5830b766d301aab/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket", [LIVE][26/09/2026 07:00 WIB] Japan vs Nepal (SonyLiv )
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=98f61979901c2ef0321334576db96967-1790379301165
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 05:05 WIB] Boston Red Sox vs Chicago Cubs (CRICFy LIVE)
+https://chatgpt.hereisman.net/playlist/57052/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 05:05 WIB] Boston Red Sox vs Chicago Cubs (HD SERVER)
+https://edgestream7.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 05:40 WIB] Philadelphia Phillies vs Tampa Bay Rays (CRICFy LIVE)
+https://edgestream4.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 05:40 WIB] Detroit Tigers vs Pittsburgh Pirates (CRICFy LIVE)
+https://edgestream4.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 05:45 WIB] Washington Nationals vs New York Mets (CRICFy LIVE)
+https://edgestream5.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 06:05 WIB] New York Yankees vs Baltimore Orioles (CRICFy LIVE)
+https://edgestream2.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 06:07 WIB] Toronto Blue Jays vs Cincinnati Reds (CRICFy LIVE)
+https://edgestream3.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 06:40 WIB] Milwaukee Brewers vs St. Louis Cardinals (CRICFy LIVE)
+https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 06:40 WIB] Chicago White Sox vs Colorado Rockies (CRICFy LIVE)
+https://edgestream4.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 06:40 WIB] Kansas City Royals vs Cleveland Guardians (CRICFy LIVE)
+https://edgestream7.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][26/09/2026 06:10 WIB] Miami Marlins vs Atlanta Braves (CRICFy LIVE)
+https://edgestream5.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][26/09/2026 18:00 WIB] Formula 1 vs Formula 1 (SKY SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6cc913d4e085f85bc435381400cd02e:6f53b5bd64aecc2448cda0660cbfc9aa
@@ -49,12 +83,6 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [UPCOMING][02/10/2026 21:00 WIB] MotoGP vs MotoGP (LOW SERVER)
 http://193.47.62.44/hls/ssssAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][26/09/2026 07:00 WIB] SmackDown vs SmackDown (CRICFy LIVE)
-https://chatgpt.hereisman.net/playlist/54963/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][26/09/2026 07:00 WIB] SmackDown vs SmackDown (WWE LIVE - AQ)
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][26/09/2026 07:00 WIB] SmackDown vs SmackDown (SD SERVER)
-http://193.47.62.41/hls/UIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][29/09/2026 07:00 WIB] WWE RAW vs WWE RAW (CRICFy LIVE)
 https://chatgpt.hereisman.net/playlist/54800/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][29/09/2026 07:00 WIB] WWE RAW vs WWE RAW (HD SERVER)
@@ -121,40 +149,16 @@ https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8?|refere
 http://193.47.62.59/hls/RRRRA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][27/09/2026 15:30 WIB] India vs West Indies (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket", [UPCOMING][26/09/2026 07:00 WIB] Japan vs Nepal (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket", [UPCOMING][26/09/2026 12:00 WIB] Malaysia vs Oman (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 05:05 WIB] Boston Red Sox vs Chicago Cubs (CRICFy LIVE)
-https://chatgpt.hereisman.net/playlist/57052/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 05:05 WIB] Boston Red Sox vs Chicago Cubs (HD SERVER)
-https://edgestream7.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 05:40 WIB] Philadelphia Phillies vs Tampa Bay Rays (CRICFy LIVE)
-https://edgestream4.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 05:40 WIB] Detroit Tigers vs Pittsburgh Pirates (CRICFy LIVE)
-https://edgestream4.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 05:45 WIB] Washington Nationals vs New York Mets (CRICFy LIVE)
-https://edgestream5.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 06:05 WIB] New York Yankees vs Baltimore Orioles (CRICFy LIVE)
-https://edgestream2.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 09:10 WIB] Seattle Mariners vs Los Angeles Angels (CRICFy LIVE)
 https://edgestream6.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 06:07 WIB] Toronto Blue Jays vs Cincinnati Reds (CRICFy LIVE)
-https://edgestream3.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 06:40 WIB] Milwaukee Brewers vs St. Louis Cardinals (CRICFy LIVE)
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 06:40 WIB] Chicago White Sox vs Colorado Rockies (CRICFy LIVE)
-https://edgestream4.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 06:40 WIB] Kansas City Royals vs Cleveland Guardians (CRICFy LIVE)
-https://edgestream7.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 07:10 WIB] Minnesota Twins vs Texas Rangers (CRICFy LIVE)
 https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 08:40 WIB] Athletics vs Houston Astros (CRICFy LIVE)
 https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 08:40 WIB] San Diego Padres vs Arizona Diamondbacks (CRICFy LIVE)
 https://edgestream4.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 06:10 WIB] Miami Marlins vs Atlanta Braves (CRICFy LIVE)
-https://edgestream5.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][26/09/2026 09:15 WIB] San Francisco Giants vs Los Angeles Dodgers (CRICFy LIVE)
 https://edgestream6.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTriRVDshs3S8J4gudt5YrQPHKEAWGb-Glx7rD8UFMb_Mdd6OtAPsfyoKY&s=10" group-title="Sports", [SPORT] sscsportss | SSC SPORT 1 - AQ
