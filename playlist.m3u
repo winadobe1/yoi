@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-09-29 06:57 WIB
+# UPDATED: 2026-09-29 12:43 WIB
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][02/10/2026 11:30 WIB] Formula 1 vs Formula 1 (TSN SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,13 +55,13 @@ https://chatgpt.hereisman.net/playlist/54963/load-playlist?|Referer=https://gooz
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][03/10/2026 07:00 WIB] SmackDown vs SmackDown (SD SERVER)
 http://193.47.62.41/hls/UIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][29/09/2026 07:00 WIB] WWE RAW vs WWE RAW (CRICFy LIVE)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][06/10/2026 07:00 WIB] WWE RAW vs WWE RAW (CRICFy LIVE)
 https://chatgpt.hereisman.net/playlist/54800/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][29/09/2026 07:00 WIB] WWE RAW vs WWE RAW (HD SERVER)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][06/10/2026 07:00 WIB] WWE RAW vs WWE RAW (HD SERVER)
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][29/09/2026 07:00 WIB] WWE RAW vs WWE RAW (CRICFy HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][06/10/2026 07:00 WIB] WWE RAW vs WWE RAW (CRICFy HD)
 https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][29/09/2026 07:00 WIB] WWE RAW vs WWE RAW (SD SERVER )
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][06/10/2026 07:00 WIB] WWE RAW vs WWE RAW (SD SERVER )
 http://193.47.62.59/hls/K999QQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19906/image" group-title="Boxing", [UPCOMING][04/10/2026 03:00 WIB] N. Silva vs W. Cong (PARAMOUNT+ - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,10 +151,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd|coo
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd|cookie=__hdnea__=st=1790494202~exp=1790515802~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=cf9b93f61680ef53ed1adeaa6618d5329f2c35cdd08321e2c9ad4fb071b0c424&user-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&drmScheme=clearkey&drmLicense=c8a2fb190fc957c1b8333af9a7a39d31:be7497b59d4ce9e33d29bfd1d38bad1d
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][30/09/2026 15:30 WIB] India vs West Indies (STAR SPORTS TAM - IN)
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd|cookie=__hdnea__=st=1790494202~exp=1790515802~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=c22ec6273fc8f6b6b3f1e334518c2a7d1da5b22d308a4340f7243ad6b9c6199b&user-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&drmScheme=clearkey&drmLicense=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket", [UPCOMING][29/09/2026 11:30 WIB] Bangladesh vs Malaysia (WILLOW - AQ)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][29/09/2026 07:15 WIB] Chicago Bears vs Philadelphia Eagles (HD QUALITY)
-https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][29/09/2026 17:00 WIB] Australia vs Brazil (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][29/09/2026 23:30 WIB] Russia vs Iran (CRICFy LIVE)
