@@ -1,20 +1,14 @@
 #EXTM3U
-# UPDATED: 2026-10-05 06:08 WIB
+# UPDATED: 2026-10-05 09:00 WIB
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark" group-title="Basketball", [LIVE][05/10/2026 06:00 WIB] Denver Nuggets vs Utah Jazz (HD QUALITY)
-https://edgestream6.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark" group-title="Basketball", [LIVE][05/10/2026 06:00 WIB] Los Angeles Clippers vs Golden State Warriors (HD QUALITY)
-https://edgestream6.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][05/10/2026 03:25 WIB] Seattle Seahawks vs Los Angeles Chargers (CRICFy LIVE)
-https://edgestream5.pro/hls/wnbcnxbcs42.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][05/10/2026 03:25 WIB] San Francisco 49ers vs Denver Broncos (CRICFy LIVE)
-https://chatgpt.hereisman.net/playlist/57606/load-playlist?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][05/10/2026 03:25 WIB] Las Vegas Raiders vs Kansas City Chiefs (DAZN SPORTS - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][05/10/2026 07:00 WIB] Los Angeles Dodgers vs Atlanta Braves (FOX SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6450102c3e09221d8fde9129cce153a:ee9820ac8ea30d8f217f96f7a8c795d5
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/czr0xkkcv2/out/v1/ce9facdf04b24f409e89decf0f5b8884/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][05/10/2026 03:25 WIB] Las Vegas Raiders vs Kansas City Chiefs (CRICFy LIVE)
-https://edgestream6.pro/hls/ijzriafaq41.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][05/10/2026 07:00 WIB] Los Angeles Dodgers vs Atlanta Braves (HD QUALITY)
+https://edgestream5.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][05/10/2026 07:20 WIB] Carolina Panthers vs Detroit Lions (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][09/10/2026 15:30 WIB] Formula 1 vs Formula 1 (SKY Via APPLE TV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5734bfc9aca5e8e478c98f0617ae56f7:b24ed75de070e35c154feeb68fc21e57
@@ -133,15 +127,7 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [UPCOMING][09/10/2026 12:30 WIB] Afghanistan vs Bangladesh (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][05/10/2026 07:00 WIB] Los Angeles Dodgers vs Atlanta Braves (FOX SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][05/10/2026 07:00 WIB] Los Angeles Dodgers vs Atlanta Braves (HD QUALITY)
-https://edgestream5.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][06/10/2026 07:15 WIB] New Orleans Saints vs Atlanta Falcons (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][05/10/2026 07:20 WIB] Carolina Panthers vs Detroit Lions (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][06/10/2026 01:45 WIB] France vs Belgium (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -150,8 +136,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][06/10/2026 01:45 WIB] Bosnia & Herzegovina vs Poland (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][06/10/2026 01:45 WIB] Northern Ireland vs Georgia (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][06/10/2026 01:45 WIB] Romania vs Sweden (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][06/10/2026 01:45 WIB] Ukraine vs Hungary (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -505,16 +489,6 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv2.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2N2PLGSrNiPY0xUAHIhnvHLFV4iv_RcwxOQ&usqp=CAU" group-title="Sports", [SPORT] sporttv | sport.tv 4 - AQ
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkJArIPWYeayGc3Nk8uJDzhAAhl8o7dyCCA&usqp=CAU" group-title="Sports", [SPORT] astrosuper | ASTRO 1
-http://107.175.220.4:11799/go_assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkJArIPWYeayGc3Nk8uJDzhAAhl8o7dyCCA&usqp=CAU" group-title="Sports", [SPORT] astrosuper | ASTRO 2
-http://107.175.220.4:11799/go_assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkJArIPWYeayGc3Nk8uJDzhAAhl8o7dyCCA&usqp=CAU" group-title="Sports", [SPORT] astrosuper | ASTRO 3
-http://107.175.220.4:11799/go_sportsplus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkJArIPWYeayGc3Nk8uJDzhAAhl8o7dyCCA&usqp=CAU" group-title="Sports", [SPORT] astrosuper | ASTRO 4
-http://107.175.220.4:11799/go_assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkJArIPWYeayGc3Nk8uJDzhAAhl8o7dyCCA&usqp=CAU" group-title="Sports", [SPORT] astrosuper | ASTRO 5
-http://107.175.220.4:11799/go_assp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcAvS_KXw1DaXbDM7VZHVhL95gfuIbDNk1Ww&usqp=CAU" group-title="Sports", [SPORT] spotv | SPOTV 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
