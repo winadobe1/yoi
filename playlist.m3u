@@ -1,44 +1,80 @@
 #EXTM3U
-# UPDATED: 2026-10-11 08:53 WIB
+# UPDATED: 2026-10-11 15:48 WIB
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19906/image" group-title="Boxing", [LIVE][11/10/2026 04:00 WIB] B. Allen vs C. L. Duncan (PARAMOUNT+ - AQ)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [LIVE][11/10/2026 14:00 WIB] MotoGP vs MotoGP (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00bcea670d00c8e47519f2e960ca76f9:ecbb5fd8f8fff204ae577025b51bfdd4
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/uok23bi6ui/out/v1/a2127a0fe363494b83fcc9fbf0393b37/69a67ea8-9eac-4ec3-a52c-7b66c05afaf1-cenc.mpd?aws_sessionId=4d11bca9-05db-47c8-bf71-11ab65538e1b
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19906/image" group-title="Boxing", [LIVE][11/10/2026 04:00 WIB] B. Allen vs C. L. Duncan (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [LIVE][11/10/2026 14:00 WIB] MotoGP vs MotoGP (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19906/image" group-title="Boxing", [LIVE][11/10/2026 04:00 WIB] B. Allen vs C. L. Duncan (CRICFy LIVE)
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/25.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19906/image" group-title="Boxing", [LIVE][11/10/2026 04:00 WIB] B. Allen vs C. L. Duncan (HD SERVER)
-https://edgestream6.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19906/image" group-title="Boxing", [LIVE][11/10/2026 04:00 WIB] B. Allen vs C. L. Duncan (LOW SERVER)
-http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19906/image" group-title="Boxing", [LIVE][11/10/2026 04:00 WIB] B. Allen vs C. L. Duncan (SportsNet - AQ)
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [LIVE][11/10/2026 14:00 WIB] MotoGP vs MotoGP (MotoGP - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19906/image" group-title="Boxing", [LIVE][11/10/2026 04:00 WIB] B. Allen vs C. L. Duncan (UFC TV - AQ)
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [LIVE][11/10/2026 14:00 WIB] MotoGP vs MotoGP (HD SERVER )
+https://edgestream2.pro/hls/oeenzgezcz47.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [LIVE][11/10/2026 14:00 WIB] MotoGP vs MotoGP (SPOTV - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [LIVE][11/10/2026 07:00 WIB] São Paulo vs Vitória (PREMIERE BR - AQ)
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [LIVE][11/10/2026 14:00 WIB] MotoGP vs MotoGP (LOW SERVER)
+http://193.47.62.41/hls/duuuAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][11/10/2026 14:30 WIB] South Africa vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [LIVE][11/10/2026 07:00 WIB] São Paulo vs Vitória (SporTV BR - AQ)
+#KODIPROP:inputstream.adaptive.license_key=93a6a7eba3555210bbeb9a8bc1770a71:86b8aed2b10c0124d6da65bdeafa6707
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ik0zeufmnr/out/v1/4ce238b19c5c4541bff0e2697c5d3fc5/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][11/10/2026 14:30 WIB] South Africa vs Australia (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark" group-title="Basketball", [LIVE][11/10/2026 07:00 WIB] Boston Celtics vs Philadelphia 76ers (HD QUALITY)
-https://edgestream4.pro/hls/zazezagdgfc98.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark" group-title="Basketball", [LIVE][11/10/2026 07:00 WIB] Miami Heat vs Minnesota Timberwolves (HD QUALITY)
-https://edgestream4.pro/hls/wxqsdafzaengfgu97.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark" group-title="Basketball", [LIVE][11/10/2026 07:30 WIB] Golden State Warriors vs Sacramento Kings (HD QUALITY)
-https://edgestream4.pro/hls/aetrayytufzrdtvgx99.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [LIVE][11/10/2026 07:00 WIB] Cleveland Guardians vs Chicago White Sox (HD QUALITY)
-https://edgestream5.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][11/10/2026 14:30 WIB] South Africa vs Australia (SKY CRICKET - AQ)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][11/10/2026 14:30 WIB] South Africa vs Australia (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93a6a7eba3555210bbeb9a8bc1770a71:86b8aed2b10c0124d6da65bdeafa6707
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ik0zeufmnr/out/v1/4ce238b19c5c4541bff0e2697c5d3fc5/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][11/10/2026 14:30 WIB] South Africa vs Australia (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][11/10/2026 14:30 WIB] South Africa vs Australia (FOX CRICKET HD)
+https://papacito.cfd/m3u/441307/live.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][11/10/2026 14:30 WIB] South Africa vs Australia (A SPORTS HD)
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][11/10/2026 14:30 WIB] South Africa vs Australia (WILLOW HD)
+http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [LIVE][11/10/2026 14:30 WIB] South Africa vs Australia (FANCODE - IN)
+https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket", [LIVE][11/10/2026 10:50 WIB] Australia Women vs Bangladesh Women (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket", [LIVE][11/10/2026 10:50 WIB] Australia Women vs Bangladesh Women (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket", [LIVE][11/10/2026 10:50 WIB] Australia Women vs Bangladesh Women (WILLOW HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket", [LIVE][11/10/2026 10:50 WIB] Australia Women vs Bangladesh Women (FANCODE - IN)
+https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [LIVE][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a90a3c5b4d9c0616f4ecb1505a24e0b:058f1d252ada25265a12c34956938d13
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [LIVE][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a90a3c5b4d9c0616f4ecb1505a24e0b:058f1d252ada25265a12c34956938d13
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [LIVE][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8|referer=https://www.tapmad.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [LIVE][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (T SPORTS HD)
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [LIVE][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (A SPORTS HD)
+https://playztv-apps.pages.dev/a-sports/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [LIVE][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (FANCODE - IN)
+https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b69428_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][11/10/2026 18:55 WIB] Formula 1 vs Formula 1 (TSN SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
@@ -73,26 +109,6 @@ https://bl.rutube.ru/livestream/4883ca1f298abb3a17eae58fc0532c89/index.m3u8?s=o6
 https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][11/10/2026 18:55 WIB] Formula 1 vs Formula 1 (LOW SERVER)
 http://193.47.62.55/hls/NNNN.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [UPCOMING][11/10/2026 14:00 WIB] MotoGP vs MotoGP (TNT SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [UPCOMING][11/10/2026 14:00 WIB] MotoGP vs MotoGP (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [UPCOMING][11/10/2026 14:00 WIB] MotoGP vs MotoGP (MotoGP - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [UPCOMING][11/10/2026 14:00 WIB] MotoGP vs MotoGP (HD SERVER )
-https://edgestream2.pro/hls/oeenzgezcz47.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [UPCOMING][11/10/2026 14:00 WIB] MotoGP vs MotoGP (SPOTV - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [UPCOMING][11/10/2026 14:00 WIB] MotoGP vs MotoGP (LOW SERVER)
-http://193.47.62.41/hls/duuuAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][17/10/2026 07:00 WIB] SmackDown vs SmackDown (CRICFy LIVE)
 https://chatgpt.hereisman.net/playlist/54963/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][17/10/2026 07:00 WIB] SmackDown vs SmackDown (WWE LIVE - AQ)
@@ -107,30 +123,6 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
 https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png" group-title="Boxing", [UPCOMING][13/10/2026 07:00 WIB] WWE RAW vs WWE RAW (SD SERVER )
 http://193.47.62.59/hls/K999QQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 14:30 WIB] South Africa vs Australia (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=61b5fe1a7d9d83929d15da6db1c5f427:6e8231835a24911fd035a47e49f5c53b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1dwfmiwgbk/out/v1/713012dd281246dc827872d3920a8443/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 14:30 WIB] South Africa vs Australia (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 14:30 WIB] South Africa vs Australia (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 14:30 WIB] South Africa vs Australia (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=61b5fe1a7d9d83929d15da6db1c5f427:6e8231835a24911fd035a47e49f5c53b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1dwfmiwgbk/out/v1/713012dd281246dc827872d3920a8443/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 14:30 WIB] South Africa vs Australia (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 14:30 WIB] South Africa vs Australia (FOX CRICKET HD)
-https://papacito.cfd/m3u/441307/live.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 14:30 WIB] South Africa vs Australia (A SPORTS HD)
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 14:30 WIB] South Africa vs Australia (WILLOW HD)
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 14:30 WIB] South Africa vs Australia (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4249781_english_hls_6c802c64b19130_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 20:30 WIB] India vs West Indies (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ddad5a3a8550c203f90b86e0005700b:4dc553c52439eb86922df317a470bccb
@@ -183,40 +175,6 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 20:00 WIB] Pakistan vs Sri Lanka (LOW SERVER )
 http://193.47.62.44/hls/VTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 10:50 WIB] Australia Women vs Bangladesh Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6408a31865544e4b7cc831ff2f44e04:89a868afa2ff706aea7fa1b9ebc8f19e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzbsju2adh/out/v1/6b81fa196f61416485f38d5879b80529/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 10:50 WIB] Australia Women vs Bangladesh Women (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6408a31865544e4b7cc831ff2f44e04:89a868afa2ff706aea7fa1b9ebc8f19e
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mzbsju2adh/out/v1/6b81fa196f61416485f38d5879b80529/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 10:50 WIB] Australia Women vs Bangladesh Women (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 10:50 WIB] Australia Women vs Bangladesh Women (LOW SERVER)
-http://193.47.62.44/hls/ZZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 10:50 WIB] Australia Women vs Bangladesh Women (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4250149_english_hls_b5a49a2a0a53830_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09269747be60ae1f8d4283d6d5d01fd2:a46879b547df24d568c8f89ae6c3273c
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09269747be60ae1f8d4283d6d5d01fd2:a46879b547df24d568c8f89ae6c3273c
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (TAPMAD - AQ)
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (T SPORTS HD)
-http://103.151.60.162:2122/play/a030/index.m3u8?hls
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (WILLOW HD)
-https://papacito.cfd/m3u/2161753/live.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Cricket", [UPCOMING][11/10/2026 13:00 WIB] Afghanistan vs Bangladesh (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4249693_english_hls_aaca093f3b543_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark" group-title="Basketball", [UPCOMING][11/10/2026 09:30 WIB] Phoenix Suns vs San Antonio Spurs (HD QUALITY)
-https://edgestream7.pro/hls/erytezaiuzeazer100.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark" group-title="Basketball", [UPCOMING][11/10/2026 17:00 WIB] Houston Rockets vs Dallas Mavericks (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football", [UPCOMING][11/10/2026 20:30 WIB] 1. FC Köln vs Borussia M'gladbach (CRICFy LIVE)
