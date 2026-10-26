@@ -1,52 +1,26 @@
 #EXTM3U
-# UPDATED: 2026-10-26 06:17 WIB
+# UPDATED: 2026-10-26 08:15 WIB
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][26/10/2026 03:00 WIB] Formula 1 vs Formula 1 (TSN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][26/10/2026 03:00 WIB] Formula 1 vs Formula 1 (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][26/10/2026 03:00 WIB] Formula 1 vs Formula 1 (SporTV BR - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][26/10/2026 03:00 WIB] Formula 1 vs Formula 1 (CRICFy LIVE )
-https://chatgpt.hereisman.net/playlist/58439/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/58439?ad=111&Origin=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][26/10/2026 03:00 WIB] Formula 1 vs Formula 1 (SPORTSCAST - AQ)
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/15f7135f-1812-4b9e-849e-ad20b90081b7/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][26/10/2026 03:00 WIB] Formula 1 vs Formula 1 (SKY SPORTS F1)
-https://temp.formaturamaxi.com.br/f1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][26/10/2026 03:00 WIB] Formula 1 vs Formula 1 (RUSSIA FEED)
-https://bl.rutube.ru/livestream/38c36d6eac1343ec696f07ed45daee78/index.m3u8?s=6sS4IjzpSEi8VU5ba1iZlw&e=1792948800&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][26/10/2026 03:00 WIB] Formula 1 vs Formula 1 (HD SERVER )
-https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [LIVE][26/10/2026 03:00 WIB] Formula 1 vs Formula 1 (LOW SERVER)
-http://193.47.62.44/hls/Z555.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][26/10/2026 03:25 WIB] Detroit Lions vs Green Bay Packers (SporTV BR - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][26/10/2026 03:25 WIB] Detroit Lions vs Green Bay Packers (HD QUALITY)
-https://edgestream6.pro/hls/cwxcnbscbsq39.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][26/10/2026 03:25 WIB] Las Vegas Raiders vs Los Angeles Rams (TSN SPORTS - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][26/10/2026 07:20 WIB] Seattle Seahawks vs Kansas City Chiefs (TSN SPORTS 1 - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][26/10/2026 03:25 WIB] Las Vegas Raiders vs Los Angeles Rams (HD QUALITY)
-https://edgestream4.pro/hls/poertjnvnev40.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [LIVE][26/10/2026 04:00 WIB] Utah Jazz vs Los Angeles Lakers (HD QUALITY)
-https://edgestream5.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [LIVE][26/10/2026 05:00 WIB] Brooklyn Nets vs Indiana Pacers (HD QUALITY)
-https://edgestream7.pro/hls/wfazgsqtrezu66.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][26/10/2026 07:20 WIB] Seattle Seahawks vs Kansas City Chiefs (TSN SPORTS 5 - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][26/10/2026 07:20 WIB] Seattle Seahawks vs Kansas City Chiefs (HD QUALITY)
+https://edgestream3.pro/hls/ijzriafaq41.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [LIVE][26/10/2026 06:00 WIB] Oklahoma City Thunder vs Los Angeles Clippers (HD QUALITY)
 https://edgestream5.pro/hls/zeafwqvhfe69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [LIVE][26/10/2026 06:00 WIB] New York Knicks vs Orlando Magic (HD QUALITY)
 https://edgestream3.pro/hls/hfsdqtaxvb67.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [LIVE][26/10/2026 06:00 WIB] Minnesota Timberwolves vs Toronto Raptors (HD QUALITY)
 https://edgestream6.pro/hls/zayrtezafgvdv68.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [LIVE][26/10/2026 06:30 WIB] Philadelphia 76ers vs Detroit Pistons (HD QUALITY)
+https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [LIVE][26/10/2026 08:00 WIB] Sacramento Kings vs Memphis Grizzlies (HD QUALITY)
+https://edgestream4.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png" group-title="Motorsport", [UPCOMING][30/10/2026 09:45 WIB] MotoGP vs MotoGP (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
@@ -197,26 +171,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 https://edgestream7.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football", [UPCOMING][27/10/2026 02:30 WIB] Paris Saint-Germain vs Olympique Lyonnais (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][26/10/2026 07:20 WIB] Seattle Seahawks vs Kansas City Chiefs (TSN SPORTS 1 - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][26/10/2026 07:20 WIB] Seattle Seahawks vs Kansas City Chiefs (TSN SPORTS 5 - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][26/10/2026 07:20 WIB] Seattle Seahawks vs Kansas City Chiefs (HD QUALITY)
-https://edgestream3.pro/hls/ijzriafaq41.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][27/10/2026 07:15 WIB] Philadelphia Eagles vs Dallas Cowboys (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][27/10/2026 05:30 WIB] Coritiba vs Grêmio (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][27/10/2026 06:00 WIB] Flamengo vs Atlético Mineiro (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][26/10/2026 06:30 WIB] Philadelphia 76ers vs Detroit Pistons (HD QUALITY)
-https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][26/10/2026 08:00 WIB] Sacramento Kings vs Memphis Grizzlies (HD QUALITY)
-https://edgestream4.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [UPCOMING][26/10/2026 23:00 WIB] Çaykur Rizespor vs Trabzonspor (CRICFy LIVE)
