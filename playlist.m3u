@@ -1,18 +1,48 @@
 #EXTM3U
-# UPDATED: 2026-10-26 20:12 WIB
+# UPDATED: 2026-10-27 02:19 WIB
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][26/10/2026 18:15 WIB] NPL vs NPL (FANCODE - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/52/image" group-title="Football", [LIVE][27/10/2026 01:30 WIB] Galatasaray vs Fenerbahçe (beIN ENGLISH - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][26/10/2026 18:15 WIB] NPL vs NPL (FANCODE HD)
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/52/image" group-title="Football", [LIVE][27/10/2026 01:30 WIB] Galatasaray vs Fenerbahçe (CRICFy LIVE )
+https://live.vivo155.com/live/sd-1-4581344.m3u8?txSecret=16483d00e46dd7980118f57b14fcef3d&txTime=6ADFB214|Referer=https://player.on8on8.com/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/52/image" group-title="Football", [LIVE][27/10/2026 01:30 WIB] Galatasaray vs Fenerbahçe (HD SERVER )
+https://live2.jorvakstreamcache.com/live/channel9.m3u8|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/52/image" group-title="Football", [LIVE][27/10/2026 01:30 WIB] Galatasaray vs Fenerbahçe (LOW SERVER)
+http://193.47.62.59/hls/FNNN.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image" group-title="Football", [LIVE][27/10/2026 01:15 WIB] Al-Qadsiah vs Al-Sadd (CRICFy LIVE )
+https://live.vivo155.com/live/hd-en-1-4621449.m3u8?txSecret=921dc1b3873d4ff8b7475760983f660b&txTime=6ADFAC6E|Referer=https://player.on8on8.com/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image" group-title="Football", [LIVE][27/10/2026 01:15 WIB] Al-Qadsiah vs Al-Sadd (LOW SERVER )
+http://193.47.62.44/hls/GGGG.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image" group-title="Football", [LIVE][27/10/2026 01:15 WIB] Al-Quwa Al-Jawiya vs Pakhtakor Tashkent (CRICFy LIVE )
+https://live.vivo155.com/live/hd-en-1-4621476.m3u8?txSecret=0fff4ce619c428d33c8980a6d3ddcc2e&txTime=6ADFAC8B|Referer=https://player.on8on8.com/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/463/image" group-title="Football", [LIVE][27/10/2026 01:15 WIB] Al-Quwa Al-Jawiya vs Pakhtakor Tashkent (LOW SERVER)
+http://193.47.62.44/hls/GGGGA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][27/10/2026 01:45 WIB] Santa Clara vs Benfica (D SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
-https://abjqoehaaaaaaaamlzr65eai5t3fs.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][26/10/2026 18:15 WIB] NPL vs NPL (STAR SPORTS HD)
-https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][26/10/2026 18:15 WIB] NPL vs NPL (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][27/10/2026 01:45 WIB] Santa Clara vs Benfica (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [LIVE][27/10/2026 01:45 WIB] Santa Clara vs Benfica (LOW SERVER)
+http://193.47.62.44/hls/GGGGAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BaZpa-Q-92ZI54-K0RZSyQAUcdgO-kcRiEjjq7-J7w&s=10" group-title="Football", [LIVE][27/10/2026 01:00 WIB] Ballon d'Or vs Ballon d'Or (CBS SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BaZpa-Q-92ZI54-K0RZSyQAUcdgO-kcRiEjjq7-J7w&s=10" group-title="Football", [LIVE][27/10/2026 01:00 WIB] Ballon d'Or vs Ballon d'Or (Ballon d'Or - ENG)
+https://tedesco.formaturamaxi.com.br/balon.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BaZpa-Q-92ZI54-K0RZSyQAUcdgO-kcRiEjjq7-J7w&s=10" group-title="Football", [LIVE][27/10/2026 01:00 WIB] Ballon d'Or vs Ballon d'Or (Ballon d'Or - ES)
+https://admin2.formaturamaxi.com.br/dazn.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BaZpa-Q-92ZI54-K0RZSyQAUcdgO-kcRiEjjq7-J7w&s=10" group-title="Football", [LIVE][27/10/2026 01:00 WIB] Ballon d'Or vs Ballon d'Or (Ballon d'Or - FR)
+https://admin2.formaturamaxi.com.br/equipe.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BaZpa-Q-92ZI54-K0RZSyQAUcdgO-kcRiEjjq7-J7w&s=10" group-title="Football", [LIVE][27/10/2026 01:00 WIB] Ballon d'Or vs Ballon d'Or (HD SERVER)
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793032316-0-0-6f6e8f89200f676142e911869978c1b0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BaZpa-Q-92ZI54-K0RZSyQAUcdgO-kcRiEjjq7-J7w&s=10" group-title="Football", [LIVE][27/10/2026 01:00 WIB] Ballon d'Or vs Ballon d'Or (LOW SERVER)
+http://193.47.62.50/hls/AFFF.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][31/10/2026 01:30 WIB] Formula 1 vs Formula 1 (TSN SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
@@ -157,59 +187,59 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://baila-lentoo.pages.dev/all-sp/809398.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Cricket", [UPCOMING][29/10/2026 15:00 WIB] Sri Lanka vs England (TAPMAD - AQ)
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c80205dcd2490ef9386a322c46aef12:0dba6b2d52b76e5dff92fac577e7ac8d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (PRIME ENG - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (PRIME ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01501c3401dabab0e68c1d58b2ed5bde:4c1167220c5d1358d630245281ceba58
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pm2e3zfxkc/out/v1/1cc24fdea32d4d549612dbe4ebc05d9e/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (TNT SPORTS - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (PRIME HINDI - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (PRIME HINDI - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18e6af4a0daf2a1fdfbdc5b541520c88:ca0b64b84edb4f20eb1e135ff03db4f7
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/mmvlg151u6/out/v1/ab9d1f193c094ee8a9305f983a716f35/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (WILLOW - ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c80205dcd2490ef9386a322c46aef12:0dba6b2d52b76e5dff92fac577e7ac8d
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (TAPMAD - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (TAPMAD - AQ)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SKY SPORT NZ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SKY SPORT NZ)
 https://mediapackage-sky-three-source.fullscreen.nz/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - English)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - English)
 https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792865371~acl=/*~id=56884335777856408421859584991676~hmac=a7707d8d1f95a517e5af9224d2105f38c53a6e23a6f8b65c9d3674a11ec453dc
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - Hindi)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - Hindi)
 https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792864244~acl=/*~id=69028954704251494132013505570173~hmac=27084bae2c88d9de9bbb6c6c1d39492da4db0b91aa1d9b31a85d0d37da4a57c9
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - Tamil)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - Tamil)
 https://dai.google.com/ssai/event/xJ0HJTOMQDqKjRoBoIFLkg/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - Telugu)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - Telugu)
 https://dai.google.com/ssai/event/yUO0eUDzSTGfGCq72cD9JA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - Kannada)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 14:00 WIB] New Zealand vs India (SonyLiv - Kannada)
 https://dai.google.com/ssai/event/FpkZw68FQKSEBeSHfi0nYA/master.m3u8edited
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbad433264aa645af31c76701ae83e38:f8fb07f5bc0a587bf4faa5ca640b1c00
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l981pjuwly/out/v1/2b68c46ab6cf46be958417bc58a35161/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (WILLOW - ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbad433264aa645af31c76701ae83e38:f8fb07f5bc0a587bf4faa5ca640b1c00
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/l981pjuwly/out/v1/2b68c46ab6cf46be958417bc58a35161/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (TAPMAD - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (TAPMAD - AQ)
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://www.tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (A SPORTS HD)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (A SPORTS HD)
 https://playztv-apps.pages.dev/a-sports/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (T SPORTS HD)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (T SPORTS HD)
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (FANCODE - IN)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][27/10/2026 21:30 WIB] Afghanistan vs Zimbabwe (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Cricket", [UPCOMING][27/10/2026 15:00 WIB] Pakistan vs Sri Lanka (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][28/10/2026 11:00 WIB] Bangladesh vs West Indies (CRICFy LIVE)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][28/10/2026 11:00 WIB] Bangladesh vs West Indies (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][27/10/2026 07:00 WIB] Milwaukee Brewers vs Tampa Bay Rays (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -220,93 +250,93 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark" group-title="Baseball", [UPCOMING][27/10/2026 07:00 WIB] Milwaukee Brewers vs Tampa Bay Rays (HD QUALITY)
-https://edgestream7.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark" group-title="Football", [UPCOMING][27/10/2026 02:30 WIB] Paris Saint-Germain vs Olympique Lyonnais (CazéTV - AQ)
+https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/34/image" group-title="Football", [UPCOMING][27/10/2026 02:30 WIB] Paris Saint-Germain vs Olympique Lyonnais (CazéTV - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][27/10/2026 07:15 WIB] Philadelphia Eagles vs Dallas Cowboys (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][27/10/2026 05:30 WIB] Coritiba vs Grêmio (PREMIERE BR - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/34/image" group-title="Football", [UPCOMING][27/10/2026 02:30 WIB] Paris Saint-Germain vs Olympique Lyonnais (CRICFy LIVE)
+https://edgestream4.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/34/image" group-title="Football", [UPCOMING][27/10/2026 02:30 WIB] Paris Saint-Germain vs Olympique Lyonnais (HD SERVER)
+https://edgestream1.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/34/image" group-title="Football", [UPCOMING][27/10/2026 02:30 WIB] Paris Saint-Germain vs Olympique Lyonnais (LOW SERVER)
+http://193.47.62.41/hls/D444FQQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][27/10/2026 07:15 WIB] Philadelphia Eagles vs Dallas Cowboys (TSN SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][27/10/2026 07:15 WIB] Philadelphia Eagles vs Dallas Cowboys (TSN SPORTS 5 - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][27/10/2026 07:15 WIB] Philadelphia Eagles vs Dallas Cowboys (HD QUALITY)
+https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image" group-title="Football", [UPCOMING][27/10/2026 05:30 WIB] Coritiba vs Grêmio (PREMIERE BR - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][27/10/2026 06:00 WIB] Flamengo vs Atlético Mineiro (PREMIERE BR - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image" group-title="Football", [UPCOMING][27/10/2026 06:00 WIB] Flamengo vs Atlético Mineiro (PREMIERE BR - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark" group-title="Football", [UPCOMING][27/10/2026 06:00 WIB] Flamengo vs Atlético Mineiro (SporTV BR - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/325/image" group-title="Football", [UPCOMING][27/10/2026 06:00 WIB] Flamengo vs Atlético Mineiro (SporTV BR - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (PREMIER SPORTS - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (PREMIER SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (beIN ENGLISH - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (beIN ENGLISH - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (CazéTV - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (CazéTV - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (FANCODE - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [UPCOMING][26/10/2026 23:00 WIB] Çaykur Rizespor vs Trabzonspor (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark" group-title="Football", [UPCOMING][27/10/2026 01:30 WIB] Galatasaray vs Fenerbahçe (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [UPCOMING][26/10/2026 20:45 WIB] Neftchi Fergana vs Al-Ittihad (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [UPCOMING][26/10/2026 23:00 WIB] Al-Ahli vs Al-Gharafa (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [UPCOMING][26/10/2026 23:00 WIB] Al-Ain vs Tractor FC (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [UPCOMING][27/10/2026 01:15 WIB] Al-Nassr vs Al Wasl (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [UPCOMING][27/10/2026 01:15 WIB] Al-Qadsiah vs Al-Sadd (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [UPCOMING][27/10/2026 01:15 WIB] Al-Quwa Al-Jawiya vs Pakhtakor Tashkent (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [UPCOMING][28/10/2026 00:30 WIB] Sassuolo vs Lazio (CRICFy LIVE)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/8/image" group-title="Football", [UPCOMING][27/10/2026 03:00 WIB] Sevilla vs Osasuna (HD SERVER )
+https://edgestream6.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23/image" group-title="Football", [UPCOMING][28/10/2026 00:30 WIB] Sassuolo vs Lazio (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="Football", [UPCOMING][27/10/2026 23:00 WIB] Al Seeb SC vs East Bengal FC (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", [UPCOMING][27/10/2026 02:30 WIB] FC Andorra vs Burgos Club de Fútbol (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [UPCOMING][27/10/2026 01:45 WIB] Santa Clara vs Benfica (D SPORTS - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark" group-title="Football", [UPCOMING][27/10/2026 02:30 WIB] FC Andorra vs Burgos Club de Fútbol (LOW SERVER)
+http://193.47.62.44/hls/GGGGAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 06:00 WIB] Cleveland Cavaliers vs Minnesota Timberwolves (HD QUALITY)
+https://edgestream5.pro/hls/wfazgsqtrezu66.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 06:00 WIB] Charlotte Hornets vs Washington Wizards (HD QUALITY)
+https://edgestream4.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 06:30 WIB] Boston Celtics vs Chicago Bulls (HD QUALITY)
+https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 06:30 WIB] Miami Heat vs Dallas Mavericks (HD QUALITY)
+https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 07:00 WIB] Oklahoma City Thunder vs Phoenix Suns (HD QUALITY)
+https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 07:00 WIB] Milwaukee Bucks vs Indiana Pacers (HD QUALITY)
+https://edgestream4.pro/hls/zeafwqvhfe69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 07:30 WIB] Houston Rockets vs Atlanta Hawks (HD QUALITY)
+https://edgestream4.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 09:00 WIB] Denver Nuggets vs Golden State Warriors (HD QUALITY)
+https://edgestream1.pro/hls/fdgsqdfawa73.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 08:00 WIB] Utah Jazz vs Memphis Grizzlies (HD QUALITY)
+https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][27/10/2026 13:45 WIB] NPL vs NPL (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark" group-title="Football", [UPCOMING][27/10/2026 01:45 WIB] Santa Clara vs Benfica (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][27/10/2026 13:45 WIB] NPL vs NPL (FANCODE HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BaZpa-Q-92ZI54-K0RZSyQAUcdgO-kcRiEjjq7-J7w&s=10" group-title="Football", [UPCOMING][27/10/2026 00:00 WIB] Ballon d'Or vs Ballon d'Or (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 06:00 WIB] Cleveland Cavaliers vs Minnesota Timberwolves (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 06:00 WIB] Charlotte Hornets vs Washington Wizards (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 06:30 WIB] Boston Celtics vs Chicago Bulls (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 06:30 WIB] Miami Heat vs Dallas Mavericks (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 07:00 WIB] Oklahoma City Thunder vs Phoenix Suns (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 07:00 WIB] Milwaukee Bucks vs Indiana Pacers (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 07:30 WIB] Houston Rockets vs Atlanta Hawks (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 09:00 WIB] Denver Nuggets vs Golden State Warriors (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][27/10/2026 08:00 WIB] Utah Jazz vs Memphis Grizzlies (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
+https://abjqoehaaaaaaaamlzr65eai5t3fs.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][27/10/2026 13:45 WIB] NPL vs NPL (STAR SPORTS HD)
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][27/10/2026 13:45 WIB] NPL vs NPL (FANCODE - IN)
+https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqApl_EnWGZbS_9Mdee7V9v7Q_xyVBankZg32YNQxAEKLT1KWGz7f9AZzS-1ZDMKxt6etxxBc5IflQQ5qfUJOIpRHw47kxDKa1-_ntu2BnuFP__9gw5dQ7fB29s68MebvY8LB3ZGZBsXQLZ97iyZtGlBh8JPSlRFuRPyYKRHLMghBhAFNiZomwAxVJFT6p/s320/TNT_SPORTS_LOGO_ICON_JPG_PNG.png" group-title="Sports", [SPORT] tntsports1 | TNT 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
@@ -735,7 +765,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/nelfyucw9a/
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCVw95FNkWMoDPd1akJTp_OrvAAbtOgD1Fc_XmzJ6gZEb99UfGLDPasMI&s=10" group-title="Sports", [SPORT] Redbull | Server 1
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.icon-icons.com/167/PNG/512/ct_sport_23186.png" group-title="Sports", [SPORT] CT Sport | Server 1
+#EXTINF:-1 tvg-logo="https://files.softicons.com/download/application-icons/circle-icons-add-on-1-by-martz90/png/256x256/ct-sport.png" group-title="Sports", [SPORT] CTSport | Server 1
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-nWZdCFZiGlqzYU0djTCC7c59LBjZexdAy_-eihB7MGdezf0Pw33dKyM5&s=10" group-title="Sports", [SPORT] BEK | Server 1
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
