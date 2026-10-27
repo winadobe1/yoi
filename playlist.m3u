@@ -1,92 +1,8 @@
 #EXTM3U
-# UPDATED: 2026-10-28 03:09 WIB
+# UPDATED: 2026-10-28 06:49 WIB
 
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="Football", [LIVE][28/10/2026 01:15 WIB] Al-Shorta vs Al-Hussein Irbid (CRICFy LIVE)
-https://live2.jorvakstreamcache.com/live/channel9.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="Football", [LIVE][28/10/2026 01:15 WIB] Al-Shorta vs Al-Hussein Irbid (LOW SERVER)
-http://193.47.62.44/hls/DADADAAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 01:00 WIB] UD Pinatar vs Elche (CRICFy LIVE )
-https://live.vivo155.com/live/sd-1-4658618.m3u8?txSecret=18e0979317653ffe3707a7b2e1ed0f94&txTime=6AE0FB12|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 01:00 WIB] UD Pinatar vs Elche (HD SERVER )
-https://www.rtmpcdn.com/live/01996b1f-9cd2-4c3d-81b6-fef6374d1040.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 01:00 WIB] UD Pinatar vs Elche (LOW SERVER)
-http://193.47.62.44/hls/DADADAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 01:00 WIB] Sestao River vs Espanyol (CRICFy LIVE )
-https://live.vivo155.com/live/sd-1-4658616.m3u8?txSecret=af3c800710b8a93172783721ec44a64c&txTime=6AE0FBC2|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 01:00 WIB] Sestao River vs Espanyol (HD SERVER )
-https://live2.jorvakstreamcache.com/live/channel17.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 01:00 WIB] Sestao River vs Espanyol (CRICFy FAST )
-https://www.rtmpcdn.com/live/1529e7a1-c0a2-4a32-8726-2bd3faf50584.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 01:00 WIB] Sestao River vs Espanyol (LOW SERVER)
-http://193.47.62.44/hls/DADADAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 01:45 WIB] UD Castellonense vs Almería (CRICFy LIVE)
-https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 02:00 WIB] RSD Alcalá vs UD Las Palmas (CRICFy LIVE)
-https://live2.jorvakstreamcache.com/live/channel10.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 03:00 WIB] CD Manacor vs Villarreal (LOW SERVER )
-http://193.47.62.59/hls/JBBBBAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 03:00 WIB] Recreativo de Huelva vs Rayo Vallecano (LOW SERVER)
-http://193.47.62.59/hls/JBBBBAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][28/10/2026 03:00 WIB] Sporting de Alcázar CF vs Málaga CF (LOW SERVER)
-http://193.47.62.59/hls/JBBBBAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] AS Roma vs Cagliari (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] AS Roma vs Cagliari (FUBO SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
-https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] AS Roma vs Cagliari (SPORT 1 CZ - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] AS Roma vs Cagliari (LOW SERVER)
-http://193.47.62.59/hls/JBBBB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Torino vs Como (LOW SERVER)
-http://193.47.62.59/hls/JBBBBA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [LIVE][28/10/2026 01:15 WIB] Al Shamal SC vs Al-Hilal (CRICFy LIVE )
-https://live.vivo155.com/live/hd-en-1-4621466.m3u8?txSecret=4953221d9dc60bccd98c1ad5032ff924&txTime=6AE0FC13|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [LIVE][28/10/2026 01:15 WIB] Al Shamal SC vs Al-Hilal (HD SERVER)
-https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [LIVE][28/10/2026 01:15 WIB] Al Shamal SC vs Al-Hilal (CRICFy FAST )
-https://www.rtmpcdn.com/live/f904a407-5eb3-4211-8b6f-a0952bdea257.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Football", [LIVE][28/10/2026 01:15 WIB] Al Shamal SC vs Al-Hilal (LOW SERVER)
-http://193.47.62.44/hls/DADADAAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Borussia Dortmund vs SV Werder Bremen (PREMIER SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Borussia Dortmund vs SV Werder Bremen (LOW SERVER)
-http://193.47.62.59/hls/J777A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Borussia M'gladbach vs Karlsruher SC (LOW SERVER)
-http://193.47.62.59/hls/J777.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] SV 07 Elversberg vs Darmstadt 98 (LOW SERVER)
-http://193.47.62.59/hls/J777AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/217/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] 1. FC Köln vs 1. FC Union Berlin (LOW SERVER)
-http://193.47.62.59/hls/J777AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="Football", [LIVE][28/10/2026 03:00 WIB] Fleetwood Town vs Arsenal (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="Football", [LIVE][28/10/2026 03:00 WIB] Fleetwood Town vs Arsenal (LOW SERVER)
-http://193.47.62.55/hls/VTVTVTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Bradford City vs Peterborough United (CBS SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Bradford City vs Peterborough United (LOW SERVER)
-http://193.47.62.50/hls/VTVTVT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Leicester City vs Wigan Athletic (LOW SERVER)
-http://193.47.62.59/hls/ajjj.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Luton Town vs Doncaster Rovers (LOW SERVER)
-http://193.47.62.59/hls/ajjja.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Milton Keynes Dons vs Bromley (LOW SERVER)
-http://193.47.62.59/hls/ajjjaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Oxford United vs Stockport County (LOW SERVER)
-http://193.47.62.59/hls/ajjjaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/24/image/dark" group-title="Football", [LIVE][28/10/2026 02:45 WIB] Sheffield Wednesday vs Cambridge United (LOW SERVER)
-http://193.47.62.59/hls/ajjjaaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [LIVE][28/10/2026 06:30 WIB] Boston Celtics vs Brooklyn Nets (CRICFy LIVE)
+https://edgestream3.pro/sh/cdn/hls/mlkijfezag65.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][31/10/2026 01:30 WIB] Formula 1 vs Formula 1 (TSN SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
@@ -307,8 +223,6 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][28/10/2026 18:15 WIB] NPL vs NPL (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4250357_english_hls_0360aac3556241_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][28/10/2026 06:30 WIB] Boston Celtics vs Brooklyn Nets (CRICFy LIVE)
-https://edgestream3.pro/sh/cdn/hls/mlkijfezag65.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][28/10/2026 07:00 WIB] San Antonio Spurs vs Sacramento Kings (CRICFy LIVE)
 https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][28/10/2026 07:00 WIB] New York Knicks vs Detroit Pistons (CRICFy LIVE)
