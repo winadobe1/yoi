@@ -1,8 +1,16 @@
 #EXTM3U
-# UPDATED: 2026-10-28 06:49 WIB
+# UPDATED: 2026-10-28 09:38 WIB
 
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [LIVE][28/10/2026 06:30 WIB] Boston Celtics vs Brooklyn Nets (CRICFy LIVE)
-https://edgestream3.pro/sh/cdn/hls/mlkijfezag65.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11205/image" group-title="Baseball", [LIVE][28/10/2026 07:00 WIB] Milwaukee Brewers vs Tampa Bay Rays (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11205/image" group-title="Baseball", [LIVE][28/10/2026 07:00 WIB] Milwaukee Brewers vs Tampa Bay Rays (FOX DEPORTES - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11205/image" group-title="Baseball", [LIVE][28/10/2026 07:00 WIB] Milwaukee Brewers vs Tampa Bay Rays (HD QUALITY)
+https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][31/10/2026 01:30 WIB] Formula 1 vs Formula 1 (TSN SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
@@ -205,16 +213,6 @@ https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea
 http://103.151.60.162:2122/play/a030/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][28/10/2026 11:00 WIB] Bangladesh vs West Indies (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11205/image" group-title="Baseball", [UPCOMING][28/10/2026 07:00 WIB] Milwaukee Brewers vs Tampa Bay Rays (TNT SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11205/image" group-title="Baseball", [UPCOMING][28/10/2026 07:00 WIB] Milwaukee Brewers vs Tampa Bay Rays (FOX DEPORTES - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11205/image" group-title="Baseball", [UPCOMING][28/10/2026 07:00 WIB] Milwaukee Brewers vs Tampa Bay Rays (HD QUALITY)
-https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][28/10/2026 18:15 WIB] NPL vs NPL (STAR SPORTS - AQ)
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][28/10/2026 18:15 WIB] NPL vs NPL (FANCODE - AQ)
@@ -223,10 +221,6 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][28/10/2026 18:15 WIB] NPL vs NPL (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4250357_english_hls_0360aac3556241_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][28/10/2026 07:00 WIB] San Antonio Spurs vs Sacramento Kings (CRICFy LIVE)
-https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][28/10/2026 07:00 WIB] New York Knicks vs Detroit Pistons (CRICFy LIVE)
-https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Basketball", [UPCOMING][28/10/2026 10:00 WIB] Los Angeles Lakers vs Portland Trail Blazers (CRICFy LIVE)
 https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://embedcenter.st/&Origin=https://embedcenter.st
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/668/image/dark" group-title="Football", [UPCOMING][28/10/2026 19:15 WIB] Persib Bandung vs Melbourne Victory (CRICFy LIVE)
