@@ -1,38 +1,6 @@
 #EXTM3U
-# UPDATED: 2026-11-11 01:18 WIB
+# UPDATED: 2026-11-11 06:28 WIB
 
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][11/11/2026 01:00 WIB] CD Anaitasuna FT vs Deportivo Alavés (CRICFy LIVE)
-https://live.vivo155.com/live/sd-1-4658636.m3u8?txSecret=0a392fea1b6a67c8aa520aafc4d57bf1&txTime=6AF36BE9|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][11/11/2026 01:00 WIB] CD Anaitasuna FT vs Deportivo Alavés (HD SERVER )
-https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [LIVE][11/11/2026 00:45 WIB] Real Madrid vs Paris FC (PARAMOUNT+ - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f201a6e86e8a486e2c48d796c2de78e0:9dbe7adfd1776760c0e6dd67ecf92030
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [LIVE][11/11/2026 00:45 WIB] Real Madrid vs Paris FC (CRICFy LIVE )
-https://live.vivo155.com/live/sd-1-4646533.m3u8?txSecret=60ef8f1749c5feaab6e5e3372e8e1a89&txTime=6AF36AF9|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [LIVE][11/11/2026 00:45 WIB] Real Madrid vs Paris FC (LOW SERVER )
-http://193.47.62.41/hls/QAQAQAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [LIVE][11/11/2026 00:45 WIB] BK Häcken FF vs Chelsea FC (PARAMOUNT+ - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c559d07ccfd1b2024558710893333f5:d0dbaa1c429b5a01ea1d46c22368769d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kczwedhkgn/out/v1/48b48cc0d1e24cb4b26fd8c23961a647/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [LIVE][11/11/2026 00:45 WIB] BK Häcken FF vs Chelsea FC (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [LIVE][11/11/2026 00:45 WIB] BK Häcken FF vs Chelsea FC (CBS SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [LIVE][11/11/2026 00:45 WIB] BK Häcken FF vs Chelsea FC (CRICFy LIVE )
-https://live.vivo155.com/live/sd-1-4646532.m3u8?txSecret=c04dbb07e79ac63ee6f999465f5d0e9b&txTime=6AF36B21|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [LIVE][11/11/2026 00:45 WIB] BK Häcken FF vs Chelsea FC (LOW SERVER )
-http://193.47.62.41/hls/QAQAQAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][11/11/2026 01:00 WIB] Pamplona vs Eibar (CRICFy LIVE)
-https://live.vivo155.com/live/sd-1-4658635.m3u8?txSecret=15e843d62d7f02d07ba49c9d9392bd62&txTime=6AF36BBF|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [LIVE][11/11/2026 01:00 WIB] Pamplona vs Eibar (HD SERVER )
-https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][20/11/2026 07:30 WIB] Formula 1 vs Formula 1 (SKY Via APPLE TV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad9c5642912f164df77db5be0da7a657:339be92287cc92abc02a707d1ea58414
