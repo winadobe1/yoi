@@ -1,6 +1,118 @@
 #EXTM3U
-# UPDATED: 2026-11-12 08:01 WIB
+# UPDATED: 2026-11-12 15:20 WIB
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][12/11/2026 13:45 WIB] NPL vs NPL (FANCODE - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][12/11/2026 13:45 WIB] NPL vs NPL (STAR SPORTS HD)
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][12/11/2026 13:45 WIB] NPL vs NPL (FANCODE - IN)
+https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7fuqfzj1fx/out/v1/2ac35d6ec3424f39b61a131dccfb75b4/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e148b70d1a84524c6ef092f6d7e2c10a:c1f3cc38fbff104bfdacd0dcd07d0900
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7fuqfzj1fx/out/v1/2ac35d6ec3424f39b61a131dccfb75b4/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (TAPMAD - AQ)
+https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (PTV SPORTS HD)
+https://live.msnetworks.net/ptv-sports/master.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (TAPMAD HD)
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (LOW SERVER )
+http://193.47.62.50/hls/VFFFA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (PRIME ENG - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6872a6ce0112b3ef06eafa5d6fe16a3:c2285774921020dc71a7713f07a14e05
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (PRIME HINDI - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c44c74a35acb645f971988649c69617a:82ea35c848aafc18c7a2a8404b71edc1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2026793de4d32b74ab50d192d21e812:5b019d29e099327378d606b8c29adb4f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - English)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - Hindi)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0911/HIN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - TEL)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0911/TEL/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - TAM)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0911/TAM/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - KAN)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0911/KAN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (PRIME VIDEO - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=558ca0dbe07bf76ecee0c2570cec8f90:bffef63168d2229b6fe946a65cd6e0aa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfhi45qzel/out/v1/ab0216dbe96d408ea761a7856b61e404/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (SonyLiv - ENG)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1211/ENG/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (SonyLiv - HIN)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1211/HIN/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (SonyLiv - TAM)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1211/TAM/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (SonyLiv - TEL)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1211/TEL/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (SonyLiv - KAN)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1211/KAN/master.m3u8?hdnea=exp=1794503282~acl=/*~id=81695270016034678762187000759167~hmac=1417d19f52cbee10bc0fc7d896121dfcd09d21439cc4bb591d305c055e5e5188
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (TEN SPORTS HD)
+https://app.uckingcrazy1.workers.dev/api/play/Ten%20Cricket.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Pakistan Under-19 vs Bangladesh Under-19 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x5af8ecwsh/out/v1/c37f1ecce4214502960ae5c0367154ff/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Pakistan Under-19 vs Bangladesh Under-19 (PRIME VIDEO - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d895ee3ffc49f5334210c8ee8cccee2:612a73373cbc8a0c795ef02e725ea42e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v9vh6sx6aa/out/v1/fa0840b9189c43a5b75029161e4f1829/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Pakistan Under-19 vs Bangladesh Under-19 (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x5af8ecwsh/out/v1/c37f1ecce4214502960ae5c0367154ff/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Pakistan Under-19 vs Bangladesh Under-19 (TEN SPORTS HD)
+https://live.msnetworks.net/ten-sports/master.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [LIVE][12/11/2026 12:00 WIB] Pakistan Under-19 vs Bangladesh Under-19 (SonyLiv)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54e08fa8fce0815250f0a7836422dd18-1794457801618
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket", [LIVE][12/11/2026 15:10 WIB] WBBL vs WBBL (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket", [LIVE][12/11/2026 15:10 WIB] WBBL vs WBBL (SKY CRICKET - AQ)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket", [LIVE][12/11/2026 15:10 WIB] WBBL vs WBBL (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket", [LIVE][12/11/2026 15:10 WIB] WBBL vs WBBL (TAPMAD - AQ)
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?|Referer=https://tapmad.com/
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket", [LIVE][12/11/2026 15:10 WIB] WBBL vs WBBL (WILLOW HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket", [LIVE][12/11/2026 15:10 WIB] WBBL vs WBBL (LOW SERVER )
+http://193.47.62.55/hls/VFFF.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][20/11/2026 07:30 WIB] Formula 1 vs Formula 1 (SKY Via APPLE TV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad9c5642912f164df77db5be0da7a657:339be92287cc92abc02a707d1ea58414
@@ -105,36 +217,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (PRIME ENG - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6872a6ce0112b3ef06eafa5d6fe16a3:c2285774921020dc71a7713f07a14e05
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (PRIME HINDI - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c44c74a35acb645f971988649c69617a:82ea35c848aafc18c7a2a8404b71edc1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (TNT SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2026793de4d32b74ab50d192d21e812:5b019d29e099327378d606b8c29adb4f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (SonyLiv - English)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (SonyLiv - Hindi)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0911/HIN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (SonyLiv - TEL)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0911/TEL/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (SonyLiv - TAM)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0911/TAM/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 09:00 WIB] New Zealand vs India (SonyLiv - KAN)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0911/KAN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 12:00 WIB] Afghanistan vs Zimbabwe (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d006e8b41e37c259818c8d491904d3e7:2f7eceaab743d906957b9958152c8972
@@ -147,34 +229,6 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][13/11/2026 12:00 WIB] Afghanistan vs Zimbabwe (FANCODE - IN )
 https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][12/11/2026 13:45 WIB] NPL vs NPL (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][12/11/2026 13:45 WIB] NPL vs NPL (FANCODE - LQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][12/11/2026 13:45 WIB] NPL vs NPL (STAR SPORTS HD)
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][12/11/2026 13:45 WIB] NPL vs NPL (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4250375_english_hls_9f335c869c43687_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d63d62ca6f2d1873d79971747a489b1b:6c6b047893630a19cb091bde4cd660f3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (TAPMAD - AQ)
-https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (PTV SPORTS HD)
-https://live.msnetworks.net/ptv-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (TAPMAD HD)
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 11:30 WIB] Pakistan vs Sri Lanka (LOW SERVER )
-http://193.47.62.44/hls/D222AWX.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][13/11/2026 18:30 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056
@@ -193,36 +247,6 @@ https://live.msnetworks.net/a-sports/master.m3u8
 https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][13/11/2026 10:30 WIB] Australia vs England (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (PRIME ENG - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6872a6ce0112b3ef06eafa5d6fe16a3:c2285774921020dc71a7713f07a14e05
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (PRIME HINDI - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c44c74a35acb645f971988649c69617a:82ea35c848aafc18c7a2a8404b71edc1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (TNT SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2026793de4d32b74ab50d192d21e812:5b019d29e099327378d606b8c29adb4f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - English)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - Hindi)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0911/HIN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - TEL)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0911/TEL/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - TAM)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0911/TAM/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 13:00 WIB] New Zealand vs India (SonyLiv - KAN)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0911/KAN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][12/11/2026 22:00 WIB] Uzbekistan vs Russia (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][13/11/2026 00:00 WIB] Lithuania vs Suriname (CRICFy LIVE)
@@ -259,9 +283,29 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][15/11/2026 15:00 WIB] South Africa vs Bangladesh (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 12:00 WIB] Afghanistan Under-19 vs India Under-19 (CRICFy LIVE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [UPCOMING][13/11/2026 00:30 WIB] Calvo Sotelo Puertollano vs Albacete Balompié (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 12:00 WIB] Pakistan Under-19 vs Bangladesh Under-19 (CRICFy LIVE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [UPCOMING][13/11/2026 01:00 WIB] CD Tarancón vs Levante UD (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [UPCOMING][13/11/2026 01:00 WIB] CDA Navalcarnero vs Real Betis (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][12/11/2026 23:00 WIB] Equatorial Guinea vs Zimbabwe (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:00 WIB] Benin vs Central African Republic (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:00 WIB] Cameroon vs Namibia (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:00 WIB] Côte d'Ivoire vs Gambia (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:00 WIB] Senegal vs Sudan (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [UPCOMING][13/11/2026 00:45 WIB] Fútbol Club Barcelona vs Arsenal (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [UPCOMING][13/11/2026 03:00 WIB] Benfica vs FK Austria Wien (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 16:15 WIB] Netherlands Women vs Thailand Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][12/11/2026 16:15 WIB] Pakistan Women vs Bangladesh Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqApl_EnWGZbS_9Mdee7V9v7Q_xyVBankZg32YNQxAEKLT1KWGz7f9AZzS-1ZDMKxt6etxxBc5IflQQ5qfUJOIpRHw47kxDKa1-_ntu2BnuFP__9gw5dQ7fB29s68MebvY8LB3ZGZBsXQLZ97iyZtGlBh8JPSlRFuRPyYKRHLMghBhAFNiZomwAxVJFT6p/s320/TNT_SPORTS_LOGO_ICON_JPG_PNG.png" group-title="Sports", [SPORT] tntsports1 | TNT 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
