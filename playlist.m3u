@@ -1,82 +1,6 @@
 #EXTM3U
-# UPDATED: 2026-11-13 00:07 WIB
+# UPDATED: 2026-11-13 05:44 WIB
 
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Lithuania vs Suriname (DAZN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72fe7d3d699cc3cfa46e403efc2dbd4e:a4fa5671beff9f6b1d3b66320fc23897
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/17txp12eq1/out/v1/aef4dd042384415697255059ecce4897/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Lithuania vs Suriname (LOW SERVER )
-http://193.47.62.50/hls/EEEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][12/11/2026 23:00 WIB] DR Congo vs Sierra Leone (beIN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][12/11/2026 23:00 WIB] DR Congo vs Sierra Leone (HD SERVER )
-https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][12/11/2026 23:00 WIB] DR Congo vs Sierra Leone (LOW SERVER )
-http://193.47.62.59/hls/GGGGAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][12/11/2026 23:00 WIB] Madagascar vs Guinea-Bissau (CRICFy LIVE )
-https://live.vivo155.com/live/sd-1-4642729.m3u8?txSecret=48a079fe4408e07b5a964f09ff37db8c&txTime=6AF5F7FD|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][12/11/2026 23:00 WIB] Madagascar vs Guinea-Bissau (HD SERVER )
-https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][12/11/2026 23:00 WIB] Madagascar vs Guinea-Bissau (LOW SERVER )
-http://193.47.62.59/hls/GGGGAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Guinea vs Eritrea (CRICFy LIVE )
-https://live.vivo155.com/live/sd-1-4642737.m3u8?txSecret=137499192f6d400dd8bf072328e9be6d&txTime=6AF5F7AC|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Guinea vs Eritrea (HD SERVER )
-https://live2.jorvakstreamcache.com/live/channel24.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Guinea vs Eritrea (LOW SERVER )
-http://193.47.62.59/hls/GGGGAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Türkiye vs Belgium (DAZN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a59ccf4a670e13932b4bd5972b2be7d1:de96de2f353e2922634e7e1b34befee0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/af78moxwel/out/v1/412cee2767ed4c4a9bccc22f950ce86c/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Türkiye vs Belgium (SonyLiv PRIME - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af5adf2f9aebfbce439fd9de4d6f6111:bd962ed1dc6391f707b93c9385d9b54c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/td0oga2768/out/v1/a45152e1f3204d6aa040ea44742c838e/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Türkiye vs Belgium (FOX SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Türkiye vs Belgium (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4df001be8b4bf02ebb396f1ef9aba4f:ab259ee18cef520f319cdea61ddfa293
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0pkxlhb5ji/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Türkiye vs Belgium (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Türkiye vs Belgium (SonyLiv )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b89c39cde708ad19bc371e87f38fbb0d-1794501003595
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Türkiye vs Belgium (LOW SERVER )
-http://193.47.62.50/hls/EEEEAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Armenia vs Cyprus (DAZN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa030376eae4a60c422a069784a0b221:f18ac2a2d72a87ffe66b62740336907a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rsmrmcmdzb/out/v1/fa673d18f36e4b999c3e8a3f79721ee9/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Armenia vs Cyprus (SonyLiv PRIME - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a8998a833ad2d041de7cacd95c3f685:8256d9686b0c3dde63f205614c0772a5
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yi7ehwmaqx/out/v1/b544273aaf66429a8892963d8fbdd086/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Armenia vs Cyprus (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Armenia vs Cyprus (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb2f6053cd382eb138d7c8f0dfa461e2:94eae87ba9e0eb456dcb0a3f2debd0df
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/82oqikb16e/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Armenia vs Cyprus (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=3fb152fd6fe1cd7dd4b80a115e43e0cf-1794502203829
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][13/11/2026 00:00 WIB] Armenia vs Cyprus (LOW SERVER )
-http://193.47.62.50/hls/EEEEAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][12/11/2026 23:00 WIB] Equatorial Guinea vs Zimbabwe (CRICFy LIVE )
-https://live.vivo155.com/live/sd-1-4642741.m3u8?txSecret=6bb1fc6644ad2ec3bd1b90e4f2d79630&txTime=6AF5F73F|Referer=https://player.on8on8.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][12/11/2026 23:00 WIB] Equatorial Guinea vs Zimbabwe (HD SERVER )
-https://live2.jorvakstreamcache.com/live/channel18.m3u8?|Referer=https://xlz.domainkqt.cc/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [LIVE][12/11/2026 23:00 WIB] Equatorial Guinea vs Zimbabwe (LOW SERVER )
-http://193.47.62.44/hls/GGGGA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][20/11/2026 07:30 WIB] Formula 1 vs Formula 1 (SKY Via APPLE TV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad9c5642912f164df77db5be0da7a657:339be92287cc92abc02a707d1ea58414
@@ -235,45 +159,11 @@ https://live.msnetworks.net/a-sports/master.m3u8
 https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][13/11/2026 10:30 WIB] Australia vs England (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][13/11/2026 00:30 WIB] Malta vs Eswatini (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:45 WIB] Czechia vs Spain (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:45 WIB] England vs Croatia (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:45 WIB] Italy vs France (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:45 WIB] Albania vs Finland (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:45 WIB] San Marino vs Belarus (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:45 WIB] Montenegro vs Latvia (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][14/11/2026 17:15 WIB] Japan vs Brazil (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][14/11/2026 06:00 WIB] Argentina vs Uruguay (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][15/11/2026 15:00 WIB] South Africa vs Bangladesh (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [UPCOMING][13/11/2026 00:30 WIB] Calvo Sotelo Puertollano vs Albacete Balompié (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [UPCOMING][13/11/2026 01:00 WIB] CD Tarancón vs Levante UD (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/329/image/dark" group-title="Football", [UPCOMING][13/11/2026 01:00 WIB] CDA Navalcarnero vs Real Betis (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:00 WIB] Benin vs Central African Republic (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:00 WIB] Cameroon vs Namibia (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:00 WIB] Côte d'Ivoire vs Gambia (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 02:00 WIB] Senegal vs Sudan (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [UPCOMING][13/11/2026 00:45 WIB] Fútbol Club Barcelona vs Arsenal (CBS SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/696/image/dark" group-title="Football", [UPCOMING][13/11/2026 03:00 WIB] Benfica vs FK Austria Wien (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Cricket", [UPCOMING][14/11/2026 11:40 WIB] WBBL vs WBBL (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -335,6 +225,26 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Andorra vs Gibraltar (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Liechtenstein vs Azerbaijan (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Netherlands vs Greece (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Serbia vs Germany (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Scotland vs North Macedonia (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Slovenia vs Switzerland (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 00:00 WIB] Moldova vs Kazakhstan (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Bulgaria vs Iceland (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Luxembourg vs Estonia (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Slovakia vs Faroe Islands (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqApl_EnWGZbS_9Mdee7V9v7Q_xyVBankZg32YNQxAEKLT1KWGz7f9AZzS-1ZDMKxt6etxxBc5IflQQ5qfUJOIpRHw47kxDKa1-_ntu2BnuFP__9gw5dQ7fB29s68MebvY8LB3ZGZBsXQLZ97iyZtGlBh8JPSlRFuRPyYKRHLMghBhAFNiZomwAxVJFT6p/s320/TNT_SPORTS_LOGO_ICON_JPG_PNG.png" group-title="Sports", [SPORT] tntsports1 | TNT 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
