@@ -1,64 +1,18 @@
 #EXTM3U
-# UPDATED: 2026-11-13 17:58 WIB
+# UPDATED: 2026-11-14 01:32 WIB
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [LIVE][13/11/2026 12:00 WIB] Afghanistan vs Zimbabwe (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][14/11/2026 00:00 WIB] Moldova vs Kazakhstan (beIN ENGLISH - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [LIVE][13/11/2026 12:00 WIB] Afghanistan vs Zimbabwe (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [LIVE][13/11/2026 12:00 WIB] Afghanistan vs Zimbabwe (A SPORTS HD)
-https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [LIVE][13/11/2026 12:00 WIB] Afghanistan vs Zimbabwe (FANCODE - IN )
-https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][13/11/2026 13:45 WIB] NPL vs NPL (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][13/11/2026 13:45 WIB] NPL vs NPL (STAR SPORTS HD)
-http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [LIVE][13/11/2026 13:45 WIB] NPL vs NPL (FANCODE - IN)
-https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][13/11/2026 11:30 WIB] Pakistan vs Sri Lanka (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][13/11/2026 11:30 WIB] Pakistan vs Sri Lanka (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][13/11/2026 11:30 WIB] Pakistan vs Sri Lanka (TAPMAD - AQ)
-https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][13/11/2026 11:30 WIB] Pakistan vs Sri Lanka (PTV SPORTS HD)
-https://live.msnetworks.net/ptv-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][13/11/2026 11:30 WIB] Pakistan vs Sri Lanka (TAPMAD HD)
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [LIVE][13/11/2026 11:30 WIB] Pakistan vs Sri Lanka (LOW SERVER )
-http://193.47.62.50/hls/VFFFA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [LIVE][13/11/2026 16:15 WIB] Zimbabwe Women vs Bangladesh Women (ICC TV - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794589384~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=6e9b89ed3891607678596995263356104ae07d9b14fb763adbcfd44a98763925/manifest.mpd?vcfilter=64cee3c3-d133-4603-8993-f9108a5f90cb|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [LIVE][13/11/2026 16:15 WIB] Zimbabwe Women vs Bangladesh Women (ICC TV - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1794589384~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=6e9b89ed3891607678596995263356104ae07d9b14fb763adbcfd44a98763925/manifest.mpd?vcfilter=64cee3c3-d133-4603-8993-f9108a5f90cb|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [LIVE][13/11/2026 16:15 WIB] Zimbabwe Women vs Bangladesh Women (MyCO - AQ)
-https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8|referer=https://myco.io/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [LIVE][13/11/2026 16:15 WIB] Thailand Women vs Pakistan Women (ICC TV - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794589451~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=57a51c091cbec36963af2eb166712d9178c81abbbb7f6d1af9f5d7c044562088/manifest.mpd?vcfilter=1b53d98b-6b74-4ebf-aab9-b5a80542c7ae|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [LIVE][13/11/2026 16:15 WIB] Thailand Women vs Pakistan Women (ICC TV - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794589451~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=57a51c091cbec36963af2eb166712d9178c81abbbb7f6d1af9f5d7c044562088/manifest.mpd?vcfilter=1b53d98b-6b74-4ebf-aab9-b5a80542c7ae|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [LIVE][13/11/2026 16:15 WIB] Thailand Women vs Pakistan Women (MyCO - AQ)
-https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8|referer=https://myco.io/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [LIVE][13/11/2026 16:15 WIB] Thailand Women vs Pakistan Women (TAMASHA - AQ)
-https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][14/11/2026 00:00 WIB] Moldova vs Kazakhstan (FOX SOCCER+ HD)
+https://chatgpt.hereisman.net/playlist/59938/load-playlist-multi?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][14/11/2026 00:00 WIB] Moldova vs Kazakhstan (SonyLiv )
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794631572~acl=/*~id=47260986229254277328438290907585~hmac=a579be06592098bfaa39a315c2265f55ef1ffc30cd9b01e513354ab4eb39d154
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][14/11/2026 00:00 WIB] Moldova vs Kazakhstan (HD SERVER )
+https://www.rtmpcdn.com/live/d351739b-0801-4292-a255-8e0d3d82a701.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][14/11/2026 00:00 WIB] Moldova vs Kazakhstan (LOW SERVER )
+http://193.47.62.41/hls/GYGYGYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][20/11/2026 07:30 WIB] Formula 1 vs Formula 1 (SKY Via APPLE TV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad9c5642912f164df77db5be0da7a657:339be92287cc92abc02a707d1ea58414
@@ -163,22 +117,42 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9v8cttmhcw/out/v1/df4c5196e3d74e7d8f484fc25d9034f1/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][13/11/2026 18:30 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][14/11/2026 13:00 WIB] Afghanistan vs Zimbabwe (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][13/11/2026 18:30 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (PREMIER SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][14/11/2026 13:00 WIB] Afghanistan vs Zimbabwe (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][13/11/2026 18:30 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q6p7ehxwmc/out/v1/64ff7b94fefb4ec4b838bc86e9b32bda/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][13/11/2026 18:30 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (A SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][14/11/2026 13:00 WIB] Afghanistan vs Zimbabwe (A SPORTS HD)
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][13/11/2026 18:30 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (MYCO HD)
-https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Cricket", [UPCOMING][14/11/2026 13:00 WIB] Afghanistan vs Zimbabwe (FANCODE - IN )
+https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][14/11/2026 18:15 WIB] NPL vs NPL (FANCODE - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][14/11/2026 18:15 WIB] NPL vs NPL (STAR SPORTS HD)
+http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="Cricket", [UPCOMING][14/11/2026 18:15 WIB] NPL vs NPL (FANCODE - IN)
+https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][17/11/2026 11:30 WIB] Pakistan vs Sri Lanka (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][17/11/2026 11:30 WIB] Pakistan vs Sri Lanka (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][17/11/2026 11:30 WIB] Pakistan vs Sri Lanka (TAPMAD - AQ)
+https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][17/11/2026 11:30 WIB] Pakistan vs Sri Lanka (PTV SPORTS HD)
+https://live.msnetworks.net/ptv-sports/master.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][17/11/2026 11:30 WIB] Pakistan vs Sri Lanka (TAPMAD HD)
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][17/11/2026 11:30 WIB] Pakistan vs Sri Lanka (LOW SERVER )
+http://193.47.62.50/hls/VFFFA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][15/11/2026 10:30 WIB] Australia vs England (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=134ce834d4de77fd458c8b131c9e3986:f68411936eaaba7ffc6a0111c75292bb
@@ -307,29 +281,11 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Slovenia vs Switzerland (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 00:00 WIB] Moldova vs Kazakhstan (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Bulgaria vs Iceland (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Luxembourg vs Estonia (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:45 WIB] Slovakia vs Faroe Islands (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][13/11/2026 19:00 WIB] Chinese Taipei vs Kyrgyzstan (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][13/11/2026 19:00 WIB] Singapore vs Paraguay (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][13/11/2026 21:30 WIB] Saudi Arabia vs South Korea (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][13/11/2026 21:45 WIB] Qatar vs Australia (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][13/11/2026 22:00 WIB] Iraq vs Lebanon (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][13/11/2026 21:10 WIB] United Arab Emirates vs Honduras (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][13/11/2026 21:00 WIB] Kuwait vs Syria (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][14/11/2026 07:00 WIB] Colombia vs Chile (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -337,44 +293,6 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][14/11/2026 08:00 WIB] Peru vs Bolivia (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 20:00 WIB] Mozambique vs Ethiopia (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 20:00 WIB] Comoros vs Congo Republic (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 23:00 WIB] Burkina Faso vs Mauritania (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 20:00 WIB] Zambia vs Burundi (beIN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 20:00 WIB] Zambia vs Burundi (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 20:00 WIB] Zambia vs Burundi (beIN SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 23:00 WIB] Cabo Verde vs Liberia (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 23:00 WIB] Gabon vs Lesotho (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 23:00 WIB] Nigeria vs Tanzania (beIN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 23:00 WIB] Nigeria vs Tanzania (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 23:00 WIB] South Africa vs Kenya (beIN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][13/11/2026 23:00 WIB] Tunisia vs Libya (beIN SPORTS - AQ)
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=lLi8AB39t1Leqsc4dCjaew&e=2094539414&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][14/11/2026 02:00 WIB] Egypt vs Malawi (beIN SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe
@@ -394,6 +312,14 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Football", [UPCOMING][14/11/2026 21:30 WIB] Bangladesh vs Pakistan (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Football", [UPCOMING][14/11/2026 16:00 WIB] India vs Bhutan (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][15/11/2026 12:00 WIB] Pakistan Women vs Netherlands Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][15/11/2026 12:00 WIB] Thailand Women vs Zimbabwe Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][15/11/2026 16:15 WIB] Scotland Women vs United Arab Emirates Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][15/11/2026 16:15 WIB] Sri Lanka Women vs Papua New Guinea Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqApl_EnWGZbS_9Mdee7V9v7Q_xyVBankZg32YNQxAEKLT1KWGz7f9AZzS-1ZDMKxt6etxxBc5IflQQ5qfUJOIpRHw47kxDKa1-_ntu2BnuFP__9gw5dQ7fB29s68MebvY8LB3ZGZBsXQLZ97iyZtGlBh8JPSlRFuRPyYKRHLMghBhAFNiZomwAxVJFT6p/s320/TNT_SPORTS_LOGO_ICON_JPG_PNG.png" group-title="Sports", [SPORT] tntsports1 | TNT 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
