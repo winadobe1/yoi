@@ -1,116 +1,34 @@
 #EXTM3U
-# UPDATED: 2026-11-16 04:49 WIB
+# UPDATED: 2026-11-16 09:05 WIB
 
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Belgium vs Italy (DAZN SPORTS - AQ)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 08:20 WIB] Cincinnati Bengals vs Pittsburgh Steelers (NFL GAMEPASS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c99e376ca072739ff5a424d2644321c:90c06edbb9465cb58d230501299cf559
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9ygvtffy/out/v1/f2a8c782c6664f649cf5ec23e4f578af/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Belgium vs Italy (PRIME VIDEO - AQ)
+#KODIPROP:inputstream.adaptive.license_key=3ebd76b7cf305c862d66e5c09d28a41f:2a27f3ecd377f2678edc4582c39c0571
+https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tamtjjhks4/out/v1/93e8c6a973f84e2282b6405ce8e5ecfe/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 08:20 WIB] Cincinnati Bengals vs Pittsburgh Steelers (PEACOCK TV - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3600cc1ba4192a18b3f6eeb13219c0fe:dd794a3d9f0a7802edca45b30cd09023
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bebouklpnn/out/v1/afd41b1a05f541729c4e8a8f671a6a3b/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Belgium vs Italy (beIN ENGLISH - AQ)
+#KODIPROP:inputstream.adaptive.license_key=8eeaa628536c9ce691944e027691ce4d:e7234bd7eea041a50d4af5c1432c3774
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1tlqdlip8x/out/v1/462efc5b633049cbb86b356d039a1760/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 08:20 WIB] Cincinnati Bengals vs Pittsburgh Steelers (NBC SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Belgium vs Italy (VIX SPANISH - AQ)
+#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 08:20 WIB] Cincinnati Bengals vs Pittsburgh Steelers (TSN SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3f9cc220f9e73b355ae62bb40ba90fb:6e5f24e4e845e5d552a28787ff470d9d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwjlmyb59s/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Belgium vs Italy (SonyLiv )
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Belgium vs Italy (HD SERVER )
-https://www.rtmpcdn.com/live/d369fe60-50f0-4e9d-a225-30ec8d102829.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Belgium vs Italy (LOW SERVER )
-http://193.47.62.50/hls/KKKK.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Croatia vs Czechia (DAZN SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 08:20 WIB] Cincinnati Bengals vs Pittsburgh Steelers (SKY TOP EVENT - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f922eb47a1ba2d24816da9c8fdb0aba1:47854f2d7ed8ce4a65025603e2ea3b6b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2csfd49imd/out/v1/9dfa731721a4448db026417ddadd0ee8/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Croatia vs Czechia (PRIME VIDEO - AQ)
+#KODIPROP:inputstream.adaptive.license_key=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 08:20 WIB] Cincinnati Bengals vs Pittsburgh Steelers (SporTV BR - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edd836bc0824ecbe942be493a60843b8:9788340d03514b59a986cadc1b6cb4e9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jl5ausniat/out/v1/2cef55ba14124120af25d697c91fe486/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Croatia vs Czechia (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=61708c95b87c2a8b9773567ababb8b53:c6cab010bfaafe4c327671d33cef63b1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ljtyc73ncu/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Croatia vs Czechia (FOX SOCCER+ HD)
-https://chatgpt.hereisman.net/playlist/60198/load-playlist-multi?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Croatia vs Czechia (SonyLiv )
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Croatia vs Czechia (HD SERVER )
-https://www.rtmpcdn.com/live/17b041bb-0e08-418c-af9a-26cc42a84050.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Croatia vs Czechia (LOW SERVER )
-http://193.47.62.50/hls/KKKKA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] France vs Türkiye (DAZN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2920c80cf0049c1a90fe34522eb62eff:b335f7c3a6b05ba96eaf05953b9f7b92
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/btkkuwb4qs/out/v1/327b33c3e0c34b8382ead83b198974e4/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] France vs Türkiye (PRIME VIDEO - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44771cb414b1394a0f89a7c951744c8e:91d836ee7fe2650e08cfbb9c72ccccc0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7yrxcll7ms/out/v1/dbd120f7d0e849c0a6fa3062b148db73/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] France vs Türkiye (FOX SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] France vs Türkiye (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92754c4946ab8007c919a25d08394ae2:ea58831665208f64c781595cca9ddae7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eommy1gias/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] France vs Türkiye (FOX SPORTS HD)
-https://chatgpt.hereisman.net/playlist/60197/load-playlist-multi?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] France vs Türkiye (LOW SERVER )
-http://193.47.62.59/hls/KKKKAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (DAZN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d4040dccd613f280fd3f0918cfc8288:c2a6197e856f672dda686d74986998e4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mqwyj7yhod/out/v1/edcfd775dcd740d99bc7c8469b70c0ce/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (PRIME VIDEO - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d568a08ab13f76b669f07683491edd61:2193f3a42079453f341e73cc8f228186
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfnsqfomlx/out/v1/f7e44627d00044f5a6d3bdaf6a279e19/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7bc4236304752eaeab92f844412eebe8:2610dfd2072192991a8b66283d5840aa
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5o9hdmdfrm/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (TVE La 1 - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (SporTV BR - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (SPORT 1 CZ - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (ITV SPORTS HD)
-https://chatgpt.hereisman.net/playlist/60195/load-playlist-multi?|Referer=https://gooz.aapmains.net
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (SonyLiv )
-https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (HD SERVER )
-https://www.rtmpcdn.com/live/3ee6bb15-0a9e-4f51-96ec-335948942e0c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football", [LIVE][16/11/2026 02:45 WIB] Spain vs England (LOW SERVER)
-http://193.47.62.55/hls/KKKKAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 04:05 WIB] Arizona Cardinals vs Los Angeles Rams (CRICFy LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HL1P8ZZC
-https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HL1P8ZZC.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 04:05 WIB] Las Vegas Raiders vs Seattle Seahawks (CRICFy LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HQK2GBMT
-https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HQK2GBMT.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 04:25 WIB] Dallas Cowboys vs San Francisco 49ers (CRICFy LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HQ6P3KP3
-https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HQ6P3KP3.mpd
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 08:20 WIB] Cincinnati Bengals vs Pittsburgh Steelers (CRICFy LIVE )
+https://chatgpt.hereisman.net/playlist/60237/load-playlist-multi?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [LIVE][16/11/2026 08:20 WIB] Cincinnati Bengals vs Pittsburgh Steelers (HD SERVER )
+https://chatgpt.hereisman.net/playlist/60239/load-playlist-multi?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10" group-title="Motorsport", [UPCOMING][20/11/2026 07:30 WIB] Formula 1 vs Formula 1 (SKY Via APPLE TV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad9c5642912f164df77db5be0da7a657:339be92287cc92abc02a707d1ea58414
@@ -231,6 +149,22 @@ https://live.msnetworks.net/ptv-sports/master.m3u8
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Cricket", [UPCOMING][17/11/2026 11:30 WIB] Pakistan vs Sri Lanka (LOW SERVER )
 http://193.47.62.50/hls/VFFFA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][16/11/2026 20:45 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=160ab6fd511b22c2d9cae43f7e2d44d6:e68f37a955c76b640f9f158cb35fcce6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pcfnauj90i/out/v1/ce20f95d46394bbdb2d7361cc89efe65/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][16/11/2026 20:45 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (PREMIER SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][16/11/2026 20:45 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=160ab6fd511b22c2d9cae43f7e2d44d6:e68f37a955c76b640f9f158cb35fcce6
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pcfnauj90i/out/v1/ce20f95d46394bbdb2d7361cc89efe65/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][16/11/2026 20:45 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (A SPORTS HD)
+https://live.msnetworks.net/a-sports/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Cricket", [UPCOMING][16/11/2026 20:45 WIB] Abu Dhabi T10 vs Abu Dhabi T10 (MYCO HD)
+https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][18/11/2026 10:30 WIB] Australia vs England (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105
@@ -327,10 +261,6 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket", [UPCOMING][19/11/2026 05:00 WIB] New Zealand vs India (SONY GLOBAL)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][16/11/2026 08:20 WIB] Cincinnati Bengals vs Pittsburgh Steelers (CRICFy LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HLT1WMXD
-https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HLT1WMXD.mpd
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="American football", [UPCOMING][17/11/2026 08:15 WIB] Baltimore Ravens vs Los Angeles Chargers (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football", [UPCOMING][16/11/2026 20:00 WIB] Namibia vs Cameroon (CRICFy LIVE)
@@ -368,6 +298,14 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][17/11/2026 17:00 WIB] Singapore vs Brazil (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football", [UPCOMING][18/11/2026 04:00 WIB] Argentina vs Costa Rica (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][16/11/2026 12:00 WIB] Bangladesh Women vs Netherlands Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][16/11/2026 12:00 WIB] Zimbabwe Women vs Pakistan Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][16/11/2026 16:15 WIB] Ireland Women vs Papua New Guinea Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Cricket", [UPCOMING][16/11/2026 16:15 WIB] United Arab Emirates Women vs Sri Lanka Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqApl_EnWGZbS_9Mdee7V9v7Q_xyVBankZg32YNQxAEKLT1KWGz7f9AZzS-1ZDMKxt6etxxBc5IflQQ5qfUJOIpRHw47kxDKa1-_ntu2BnuFP__9gw5dQ7fB29s68MebvY8LB3ZGZBsXQLZ97iyZtGlBh8JPSlRFuRPyYKRHLMghBhAFNiZomwAxVJFT6p/s320/TNT_SPORTS_LOGO_ICON_JPG_PNG.png" group-title="Sports", [SPORT] tntsports1 | TNT 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
